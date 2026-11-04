@@ -1,0 +1,231 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_title": false,
+        "page_width": "small"
+      }
+    },
+    "1653810863cbada018": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": false,
+        "section_height": "small",
+        "image": "shopify://shop_images/Consign_Shopify.png",
+        "subheading": "",
+        "title": "Easy, Simple, Trusted",
+        "content": "<p>Watch-Selling Process at the Tip of Your Fingertips</p>",
+        "button_text": "sell now",
+        "button_link": "http://wa.me//6281311000909",
+        "link_style": "button",
+        "background_type": "full_width",
+        "text_width": "fill",
+        "text_position": "middle_center",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 50
+      }
+    },
+    "1662619450d15a3471": {
+      "type": "gallery",
+      "blocks": {
+        "16626194508acf52ad-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Consign_Step_1.jpg",
+            "caption": "<p><strong>FILL IN THE FORM</strong></p><p>Register yourself as a seller through our platform and complete the information needed about your product</p>"
+          }
+        },
+        "16626194508acf52ad-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Consign_Step_2.jpg",
+            "caption": "<p><strong>DROP OFF YOUR WATCH</strong></p><p>Admin will contact you to set a drop off schedule at our store</p>"
+          }
+        },
+        "705c3b78-1950-4b61-9bb2-5db64886d134": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Consign_Step_3.jpg",
+            "caption": "<p><strong>MAKING CONTENT</strong></p><p>High-resolution photos and videos that show the details of your watches taken by professional</p>"
+          }
+        },
+        "16626194508acf52ad-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Consign_Step_4.jpg",
+            "caption": "<p><strong>GO-LIVE ON ALL PLATFORMS</strong></p><p>Listing and uploading on our website and social media after full watch inspection</p>"
+          }
+        },
+        "d569e182-4cd8-482f-895e-6e1b4c3d5f5a": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Consign_Step_5.jpg",
+            "caption": "<p><strong>GET PAID FAST</strong></p><p>When the item is sold, you will receive the final sale amount minus the commission</p>"
+          }
+        }
+      },
+      "block_order": [
+        "16626194508acf52ad-0",
+        "16626194508acf52ad-1",
+        "705c3b78-1950-4b61-9bb2-5db64886d134",
+        "16626194508acf52ad-2",
+        "d569e182-4cd8-482f-895e-6e1b4c3d5f5a"
+      ],
+      "settings": {
+        "subheading": "STEP BY STEP",
+        "title": "CONCIERGE LISTING",
+        "show_arrows": true,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "16626231940d2322c8": {
+      "type": "multi-column",
+      "blocks": {
+        "1662623194e14d8818-0": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "SILVER PACKAGE",
+            "content": "<p>Admin Fee: 400k per item<br/>Commission Fee 2% per item<br/>Repost/Reprice</p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1662623194e14d8818-1": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "GOLD PACKAGE",
+            "content": "<p>Admin Fee: 500k per item<br/>Commission Fee 2% per item<br/>Photo by Owner</p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1662623194e14d8818-2": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "DIAMOND PACKAGE",
+            "content": "<p>Admin Fee: 1000k per item<br/>Commission Fee 2% per item<br/>Professional Photo by OMNILUXE</p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "1662623194e14d8818-0",
+        "1662623194e14d8818-1",
+        "1662623194e14d8818-2"
+      ],
+      "settings": {
+        "reveal_on_scroll": false,
+        "stack_items": true,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "medium",
+        "spacing": "normal",
+        "background": "#2e4b5d",
+        "text_color": "#ffffff"
+      }
+    },
+    "1662623357b84977bc": {
+      "type": "faq",
+      "blocks": {
+        "1662623357c26a6f93-1": {
+          "type": "question",
+          "settings": {
+            "title": "How do I know if my watch has been sold?",
+            "answer": "<p>Our team will contact you directly if there's any offers of your watch. Once you agree with the suggested selling price, we will ask you to drop/ship the item to our store at Mall Artha Gading. If the transaction is completed, you will get the payment immediately.</p>"
+          }
+        },
+        "1662623357c26a6f93-2": {
+          "type": "question",
+          "settings": {
+            "title": "How do I define my selling price?",
+            "answer": "<p>You can freely define your own price or ask the Consign Admin for the best price.</p>"
+          }
+        },
+        "1662623357c26a6f93-4": {
+          "type": "question",
+          "settings": {
+            "title": "How OMNILUXE ensure product authentication?",
+            "answer": "<p>We ensure our customers can shop with complete confidence because we have team experts to verify the authenticity of every timepiece.</p>"
+          }
+        },
+        "ae8dd18e-d7b9-4ae6-b524-47804791b99a": {
+          "type": "question",
+          "settings": {
+            "title": "How should I take photos of my watches that I want to sell?",
+            "answer": "<p>We suggest you to take all the photographs from several angles. Please kindly concern to only submit high-resolution photos and videos that show the details of your watches.</p>"
+          }
+        },
+        "94ce80df-d2df-4640-8b29-6bec46ae52c6": {
+          "type": "question",
+          "settings": {
+            "title": "What's the brand condition that is accepted on OMNILUXE for consignment?",
+            "answer": "<p>We accept both New and Used watches brands that meet our standards. </p>"
+          }
+        },
+        "de38eec1-39d9-4c99-94d8-3e4c9f963ddf": {
+          "type": "question",
+          "settings": {
+            "title": "Is there any admin fee for OMNILUXE consignment?",
+            "answer": "<p>Yes, we charge around 500k-1000k per item depends on the package you choose.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "1662623357c26a6f93-1",
+        "1662623357c26a6f93-2",
+        "1662623357c26a6f93-4",
+        "ae8dd18e-d7b9-4ae6-b524-47804791b99a",
+        "94ce80df-d2df-4640-8b29-6bec46ae52c6",
+        "de38eec1-39d9-4c99-94d8-3e4c9f963ddf"
+      ],
+      "settings": {
+        "show_navigation": true,
+        "title": "FAQ",
+        "content": "",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1653810863cbada018",
+    "1662619450d15a3471",
+    "16626231940d2322c8",
+    "1662623357b84977bc"
+  ]
+}

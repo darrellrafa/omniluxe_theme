@@ -1,0 +1,46 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "910979ce-9674-406e-9bf0-55ddd78c212e": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": false,
+        "section_height": "auto",
+        "image": "shopify://shop_images/Privacy_Policy_4d084132-6cb1-4371-8179-c1bfc84b9054.jpg",
+        "subheading": "omniluxe 2022",
+        "title": "Privacy Policy",
+        "content": "",
+        "button_text": "",
+        "button_link": "",
+        "link_style": "link",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "middle_center",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "show_title": false,
+        "page_width": "small"
+      }
+    }
+  },
+  "order": [
+    "910979ce-9674-406e-9bf0-55ddd78c212e",
+    "main"
+  ]
+}

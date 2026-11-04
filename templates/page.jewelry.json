@@ -1,0 +1,288 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_title": false,
+        "page_width": "small"
+      }
+    },
+    "5c49044c-4622-4e5d-872c-6a512eae5084": {
+      "type": "slideshow",
+      "blocks": {
+        "template--17024565182716__5c49044c-4622-4e5d-872c-6a512eae5084-image-1": {
+          "type": "image",
+          "settings": {
+            "text_position": "middle_center",
+            "subheading": "Tell your story",
+            "title": "Slide 1",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "template--17024565182716__5c49044c-4622-4e5d-872c-6a512eae5084-image-2": {
+          "type": "image",
+          "settings": {
+            "text_position": "middle_center",
+            "subheading": "Tell your story",
+            "title": "Slide 2",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "template--17024565182716__5c49044c-4622-4e5d-872c-6a512eae5084-image-1",
+        "template--17024565182716__5c49044c-4622-4e5d-872c-6a512eae5084-image-2"
+      ],
+      "settings": {
+        "section_height": "auto",
+        "transition_type": "sweep",
+        "autoplay": true,
+        "cycle_speed": 5,
+        "background": "rgba(0,0,0,0)"
+      }
+    },
+    "d928df00-9546-4bc8-85af-5cf77bd681c6": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--17024565182716__d928df00-9546-4bc8-85af-5cf77bd681c6-item-1": {
+          "type": "item",
+          "settings": {
+            "tab_label": "Item",
+            "subheading": "Subheading",
+            "title": "Image with text",
+            "content": "<p>Use image with text to give your customers insight into your brand. Select imagery and text that relates to your style and story.</p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17024565182716__d928df00-9546-4bc8-85af-5cf77bd681c6-item-1"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "image",
+        "image_position": "left",
+        "text_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "c1490e36-5f8d-419f-90b5-47429891cd5b": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--17024565182716__c1490e36-5f8d-419f-90b5-47429891cd5b-item-1": {
+          "type": "item",
+          "settings": {
+            "tab_label": "Item",
+            "subheading": "Subheading",
+            "title": "Image with text",
+            "content": "<p>Use image with text to give your customers insight into your brand. Select imagery and text that relates to your style and story.</p>",
+            "button_text": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17024565182716__c1490e36-5f8d-419f-90b5-47429891cd5b-item-1"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "image",
+        "image_position": "right",
+        "text_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "640fedee-8f21-4c63-982a-af1d1e9e025a": {
+      "type": "featured-collections",
+      "blocks": {
+        "template--17024565182716__640fedee-8f21-4c63-982a-af1d1e9e025a-collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "lab-grown-diamond",
+            "label": "",
+            "button_text": "",
+            "button_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17024565182716__640fedee-8f21-4c63-982a-af1d1e9e025a-collection-1"
+      ],
+      "settings": {
+        "subheading": "Your title",
+        "title": "Collection",
+        "content": "",
+        "products_count": 10,
+        "products_per_row": 4,
+        "stack_products": false,
+        "show_cta": false,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "081d56fc-73e4-405e-b1af-45300d8750b0": {
+      "type": "featured-product",
+      "blocks": {
+        "template--17024565182716__081d56fc-73e4-405e-b1af-45300d8750b0-variant_picker-1": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "selector_mode": "block",
+            "color_mode": "color",
+            "size_chart_page": ""
+          }
+        },
+        "template--17024565182716__081d56fc-73e4-405e-b1af-45300d8750b0-quantity_selector-1": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "template--17024565182716__081d56fc-73e4-405e-b1af-45300d8750b0-buy_buttons-1": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "atc_button_background": "rgba(0,0,0,0)",
+            "atc_button_text_color": "rgba(0,0,0,0)",
+            "buy_now_button_background": "rgba(0,0,0,0)",
+            "buy_now_button_text_color": "rgba(0,0,0,0)"
+          }
+        }
+      },
+      "block_order": [
+        "template--17024565182716__081d56fc-73e4-405e-b1af-45300d8750b0-variant_picker-1",
+        "template--17024565182716__081d56fc-73e4-405e-b1af-45300d8750b0-quantity_selector-1",
+        "template--17024565182716__081d56fc-73e4-405e-b1af-45300d8750b0-buy_buttons-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "product": "emerald-panther-whitegold-ring-lab-diamond",
+        "subheading": "Subheading",
+        "title": "Featured product",
+        "show_vendor": true,
+        "show_sku": false,
+        "show_taxes_included": false,
+        "show_product_rating": false,
+        "show_share_buttons": false,
+        "help_page": "",
+        "enable_video_autoplay": false,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "show_thumbnails_on_mobile": false,
+        "desktop_thumbnails_position": "bottom",
+        "transition_effect": "slide",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "1662623357b84977bc": {
+      "type": "faq",
+      "blocks": {
+        "1662623357c26a6f93-1": {
+          "type": "question",
+          "settings": {
+            "title": "How do I know if my watch has been sold?",
+            "answer": "<p>Our team will contact you directly if there's any offers of your watch. Once you agree with the suggested selling price, we will ask you to drop/ship the item to our store at Mall Artha Gading. If the transaction is completed, you will get the payment immediately.</p>"
+          }
+        },
+        "1662623357c26a6f93-2": {
+          "type": "question",
+          "settings": {
+            "title": "How do I define my selling price?",
+            "answer": "<p>You can freely define your own price or ask the Consign Admin for the best price.</p>"
+          }
+        },
+        "1662623357c26a6f93-4": {
+          "type": "question",
+          "settings": {
+            "title": "How OMNILUXE ensure product authentication?",
+            "answer": "<p>We ensure our customers can shop with complete confidence because we have team experts to verify the authenticity of every timepiece.</p>"
+          }
+        },
+        "ae8dd18e-d7b9-4ae6-b524-47804791b99a": {
+          "type": "question",
+          "settings": {
+            "title": "How should I take photos of my watches that I want to sell?",
+            "answer": "<p>We suggest you to take all the photographs from several angles. Please kindly concern to only submit high-resolution photos and videos that show the details of your watches.</p>"
+          }
+        },
+        "94ce80df-d2df-4640-8b29-6bec46ae52c6": {
+          "type": "question",
+          "settings": {
+            "title": "What's the brand condition that is accepted on OMNILUXE for consignment?",
+            "answer": "<p>We accept both New and Used watches brands that meet our standards. </p>"
+          }
+        },
+        "de38eec1-39d9-4c99-94d8-3e4c9f963ddf": {
+          "type": "question",
+          "settings": {
+            "title": "Is there any admin fee for OMNILUXE consignment?",
+            "answer": "<p>Yes, we charge around 500k-1000k per item depends on the package you choose.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "1662623357c26a6f93-1",
+        "1662623357c26a6f93-2",
+        "1662623357c26a6f93-4",
+        "ae8dd18e-d7b9-4ae6-b524-47804791b99a",
+        "94ce80df-d2df-4640-8b29-6bec46ae52c6",
+        "de38eec1-39d9-4c99-94d8-3e4c9f963ddf"
+      ],
+      "disabled": true,
+      "settings": {
+        "show_navigation": true,
+        "title": "FAQ",
+        "content": "",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "5c49044c-4622-4e5d-872c-6a512eae5084",
+    "d928df00-9546-4bc8-85af-5cf77bd681c6",
+    "c1490e36-5f8d-419f-90b5-47429891cd5b",
+    "640fedee-8f21-4c63-982a-af1d1e9e025a",
+    "081d56fc-73e4-405e-b1af-45300d8750b0",
+    "1662623357b84977bc"
+  ]
+}

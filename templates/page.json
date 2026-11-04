@@ -1,0 +1,456 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_title": false,
+        "page_width": "small"
+      }
+    },
+    "slideshow_zqEWkB": {
+      "type": "slideshow",
+      "blocks": {
+        "image_idLqKe": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Consign_Shopify.png",
+            "mobile_image": "shopify://shop_images/Consign_Shopify.png",
+            "text_position": "middle_center",
+            "subheading": "Watch-Selling Process at the Tip of Your Fingertips",
+            "title": "Easy, Simple, Trusted",
+            "button_1_text": "CONTACT US",
+            "button_1_link": "http://wa.me//6281311000909",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 40
+          }
+        }
+      },
+      "block_order": [
+        "image_idLqKe"
+      ],
+      "disabled": true,
+      "settings": {
+        "section_height": "fit",
+        "transition_type": "sweep",
+        "autoplay": true,
+        "cycle_speed": 5,
+        "background": "rgba(0,0,0,0)"
+      }
+    },
+    "1653810863cbada018": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": false,
+        "section_height": "medium",
+        "image": "shopify://shop_images/Consign_Shopify.png",
+        "subheading": "",
+        "title": "Turn Your Watch into Cash!",
+        "content": "<p>We accept luxury watch brands such as <strong>Rolex, Audemars Piguet, Patek Philippe, Richard Mille, Hublot, Omega, Tudor, IWC, Breitling, Cartier, Panerai, </strong>and many more.</p>",
+        "button_text": "",
+        "button_link": "http://wa.me//6593370278",
+        "link_style": "button",
+        "background_type": "full_width",
+        "text_width": "large",
+        "text_position": "middle_center",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 50
+      }
+    },
+    "rich_text_Mzi4Uf": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "CONSIGNMENT",
+        "title": "Why Omniluxe?",
+        "content": "<p>At Omniluxe, we turn your luxury timepieces into opportunities. With our trusted consignment service, your watch receives the visibility it deserves, reaching discerning buyers worldwide. Our expert team ensures a seamless, secure, and rewarding experience, offering you the highest value for your treasured pieces. Trust Omniluxe to connect your watch with its next proud owner, while you enjoy peace of mind and exceptional returns.</p>",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "large",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "text_with_icons_qPNCBF": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item_MwML74": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-like",
+            "custom_icon_width": 50,
+            "title": "BEST BUYERS",
+            "content": "<p>We only sell to qualified buyers with the best value</p>"
+          }
+        },
+        "item_qTJDXC": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-operator",
+            "custom_icon_width": 50,
+            "title": "MARKET EXPERTISE",
+            "content": "<p>We accurately assess your watch’s market worth</p>"
+          }
+        },
+        "item_tV8QX4": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-fast-delivery",
+            "custom_icon_width": 50,
+            "title": "SELL FAST",
+            "content": "<p>We sell your watch around 1-2 weeks at an average</p>"
+          }
+        },
+        "item_3V6tVT": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-credit-card",
+            "custom_icon_width": 50,
+            "title": "PAID FAST",
+            "content": "<p>We ensure the payment is securely transferred to you</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_MwML74",
+        "item_qTJDXC",
+        "item_tV8QX4",
+        "item_3V6tVT"
+      ],
+      "settings": {
+        "background": "#2e4b5d",
+        "text_color": "#ffffff"
+      }
+    },
+    "1662619450d15a3471": {
+      "type": "gallery",
+      "blocks": {
+        "16626194508acf52ad-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Consign_Step_1_a24040de-a42b-4532-a1b0-32c729e1efa1.jpg",
+            "caption": "<p><strong>FILL IN THE FORM</strong></p><p>Contact our consignment admin through our platform to register as a seller. Then you will be asked to provide the full details of your watch</p>"
+          }
+        },
+        "16626194508acf52ad-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Consign_Step_2_40eabdc7-a7b1-4abf-a851-424c130062fb.jpg",
+            "caption": "<p><strong>DROP OFF YOUR WATCH</strong></p><p>Bring your watch to our offline store. Make sure it’s a full set, including the original box and papers, to ensure a smooth consignment process</p>"
+          }
+        },
+        "image_VMKDXt": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Consign_Step_3_31b2af81-9185-4abb-98b8-2a34bef2f21a.jpg",
+            "caption": "<p><strong>COMPREHENSIVE INSPECTION</strong></p><p>Our Omniluxe expert team will carefully inspect your watch to assess its condition, verify its authenticity, and determine its market value</p>"
+          }
+        },
+        "705c3b78-1950-4b61-9bb2-5db64886d134": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Consign_Step_4_192f1190-b88e-4b68-aebc-97ecf5217e6f.jpg",
+            "caption": "<p><strong>MAKING CONTENT</strong></p><p>Creating high-quality content for your watch using professional cameras and tools, ensuring its best appeal to attract potential buyers</p>"
+          }
+        },
+        "16626194508acf52ad-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Consign_Step_5_22f5c0dd-c58c-4a83-9544-1292b7e57005.jpg",
+            "caption": "<p><strong>CONTENT PUBLISHING</strong></p><p>Listing and uploading on our trusted platforms, such as website and Instagram, to showcase your watch to a wide range of audience</p>"
+          }
+        },
+        "d569e182-4cd8-482f-895e-6e1b4c3d5f5a": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Consign_Step_5.jpg",
+            "caption": "<p><strong>SIT BACK AND WAIT</strong></p><p>Relax at home while we manage the offers. We’ll contact you with any updates, and payment will be made quickly once your watch is sold</p>"
+          }
+        }
+      },
+      "block_order": [
+        "16626194508acf52ad-0",
+        "16626194508acf52ad-1",
+        "image_VMKDXt",
+        "705c3b78-1950-4b61-9bb2-5db64886d134",
+        "16626194508acf52ad-2",
+        "d569e182-4cd8-482f-895e-6e1b4c3d5f5a"
+      ],
+      "settings": {
+        "subheading": "STEP BY STEP",
+        "title": "HOW TO START",
+        "show_arrows": true,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "16626231940d2322c8": {
+      "type": "multi-column",
+      "blocks": {
+        "1662623194e14d8818-0": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "SILVER PACKAGE",
+            "content": "<p>Admin Fee: 400k per item<br/>Commission Fee 2% per item<br/>Repost/Reprice</p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1662623194e14d8818-1": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "GOLD PACKAGE",
+            "content": "<p>Admin Fee: 500k per item<br/>Commission Fee 2% per item<br/>Photo by Owner</p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1662623194e14d8818-2": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "DIAMOND PACKAGE",
+            "content": "<p>Admin Fee: 1000k per item<br/>Commission Fee 2% per item<br/>Professional Photo by OMNILUXE</p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "1662623194e14d8818-0",
+        "1662623194e14d8818-1",
+        "1662623194e14d8818-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "reveal_on_scroll": false,
+        "stack_items": true,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "medium",
+        "spacing": "normal",
+        "background": "#2e4b5d",
+        "text_color": "#ffffff"
+      }
+    },
+    "image_with_text_overlay_DGDYWT": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "auto",
+        "image": "shopify://shop_images/Consignment_Page.jpg",
+        "subheading": "Hassle-Free",
+        "title": "CONSIGNMENT PROCESS",
+        "content": "<p>Enjoy Seamless Luxury Watch Selling Experience With Omniluxe</p>",
+        "button_text": "Consign Now",
+        "button_link": "https://wa.me/6281311000909?text=",
+        "link_style": "button",
+        "background_type": "full_width",
+        "text_width": "fill",
+        "text_position": "middle_center",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "1662623357b84977bc": {
+      "type": "faq",
+      "blocks": {
+        "1662623357c26a6f93-1": {
+          "type": "question",
+          "settings": {
+            "title": "What is consignment?",
+            "answer": "<p>Consignment is a service that allows you to sell your luxury watch through our platform, Omniluxe. We handle the marketing, promotion, and sale process, ensuring a seamless experience for you. Consignment is a hassle-free way to reach a broad audience and maximize the value of your luxury timepiece.</p>"
+          }
+        },
+        "1662623357c26a6f93-2": {
+          "type": "question",
+          "settings": {
+            "title": "How do I start consigning?",
+            "answer": "<p>To start consigning, first contact our consignment admin via the WhatsApp button on your bottom of the screen or you can simply visit our offline store. </p><p>Then, register as a seller on our platform. Our admin will guide you to drop off your watch at our store for inspection.</p>"
+          }
+        },
+        "1662623357c26a6f93-4": {
+          "type": "question",
+          "settings": {
+            "title": "Where is your store?",
+            "answer": "<p>Our store is named <strong>OMNILUXE</strong>, located at </p><p>Mall Artha Gading, Ground Floor B07/09, </p><p>Jakarta Utara 14240, Indonesia.</p>"
+          }
+        },
+        "ae8dd18e-d7b9-4ae6-b524-47804791b99a": {
+          "type": "question",
+          "settings": {
+            "title": "What brands are accepted?",
+            "answer": "<p>We accept a wide range of luxury watch brands, including Rolex, Patek Philippe, Audemars Piguet, Omega, and more. If you're unsure whether your watch qualifies, please contact us for details.</p>"
+          }
+        },
+        "94ce80df-d2df-4640-8b29-6bec46ae52c6": {
+          "type": "question",
+          "settings": {
+            "title": "What conditions are accepted?",
+            "answer": "<p>We accept luxury watches in various conditions, from new to used. However, the watch must be authentic and complete with its original box and papers. If you have any questions about your watch’s condition, feel free to reach out to us.</p>"
+          }
+        },
+        "de38eec1-39d9-4c99-94d8-3e4c9f963ddf": {
+          "type": "question",
+          "settings": {
+            "title": "Is there any consignment admin fee?",
+            "answer": "<p>Yes, there is an admin fee of <strong>IDR 1 Mio</strong> or <strong>Rp 1,000,000</strong> per item.</p><p>This fee covers the cost of listing and promoting your watch on our platform.</p>"
+          }
+        },
+        "question_m94yC9": {
+          "type": "question",
+          "settings": {
+            "title": "How do I set the selling price for my watch?",
+            "answer": "<p>You can define your own selling price for the watch, but we recommend aligning with current market prices. Our Omniluxe team, experts in market trends, will assist you to determine a competitive price after evaluate the watch and its condition.</p><p>But if you are in a hurry, we'll recommend you to choose a price slightly below market value.</p>"
+          }
+        },
+        "question_tiDAJP": {
+          "type": "question",
+          "settings": {
+            "title": "How does Omniluxe market the watch?",
+            "answer": "<p>Omniluxe markets your watch by creating high-quality content and showcasing it on our website and social media platforms, including Instagram. We use professional photography and engaging descriptions to attract potential buyers and maximize visibility.</p>"
+          }
+        },
+        "question_mjGLbt": {
+          "type": "question",
+          "settings": {
+            "title": "How long until my watch is sold?",
+            "answer": "<p>The time it takes to sell your watch can vary depending on market demand and pricing. While some watches may sell quickly, others might take a bit longer.</p><p>Typically, it takes about 1 week to 1 month, but it can also sell within a few days or even within a day. We strive to ensure your watch gets the best exposure to facilitate a swift sale.</p>"
+          }
+        },
+        "question_BrhJ8j": {
+          "type": "question",
+          "settings": {
+            "title": "How will I know if my watch has been sold?",
+            "answer": "<p>We will contact you if there is any offer for your watch. Once we agree on the offer, we will arrange the sale process for you. After the sale is complete, you can relax at home while we handle the payment, which will be processed as soon as possible, minus a 2% commission.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "1662623357c26a6f93-1",
+        "1662623357c26a6f93-2",
+        "1662623357c26a6f93-4",
+        "ae8dd18e-d7b9-4ae6-b524-47804791b99a",
+        "94ce80df-d2df-4640-8b29-6bec46ae52c6",
+        "de38eec1-39d9-4c99-94d8-3e4c9f963ddf",
+        "question_m94yC9",
+        "question_tiDAJP",
+        "question_mjGLbt",
+        "question_BrhJ8j"
+      ],
+      "settings": {
+        "show_navigation": true,
+        "title": "FAQ",
+        "content": "",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "testimonials_7mTJWP": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_rQYt3f": {
+          "type": "testimonial",
+          "settings": {
+            "content": "Bisa titip jual dengan komisi 2% merupakan solusi jual jam jaman sekarang, jadi bisa dapat harga fair sesuai kemauan kami.",
+            "author": "Michael H."
+          }
+        },
+        "testimonial_ADAFDz": {
+          "type": "testimonial",
+          "settings": {
+            "content": "Ini tempat jual beli jam terbaik sih, nitip jual jam ga pake lama udah dapet buyernya, fast respon juga sampai malam dichat balesnya selalu cepet. Good job buat Omniluxe, sukses selalu ke depannya!👍",
+            "author": "Ryan R."
+          }
+        },
+        "testimonial_MgWz47": {
+          "type": "testimonial",
+          "settings": {
+            "content": "Rekomended seller dan titip jual juga cepat dan termasuk murah untuk admin dan fee nya.. cepat laku karena relasi toko yg luas",
+            "author": "Fauzy P."
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_rQYt3f",
+        "testimonial_ADAFDz",
+        "testimonial_MgWz47"
+      ],
+      "disabled": true,
+      "settings": {
+        "reveal_on_scroll": true,
+        "subheading": "",
+        "title": "",
+        "background": "#2e4b5d",
+        "text_color": "#ffffff"
+      }
+    },
+    "25f67d02-c452-485d-8196-ba08682cf53c": {
+      "type": "custom-html",
+      "disabled": true,
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "html": "<script src=\"https://apps.elfsight.com/p/platform.js\" defer></script>\n<div class=\"elfsight-app-48f87c00-596c-4426-9fb9-7bd889fc8a66\"></div>",
+        "background_type": "full_width",
+        "add_vertical_spacing": false,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "slideshow_zqEWkB",
+    "1653810863cbada018",
+    "rich_text_Mzi4Uf",
+    "text_with_icons_qPNCBF",
+    "1662619450d15a3471",
+    "16626231940d2322c8",
+    "image_with_text_overlay_DGDYWT",
+    "1662623357b84977bc",
+    "testimonials_7mTJWP",
+    "25f67d02-c452-485d-8196-ba08682cf53c"
+  ]
+}

@@ -1,0 +1,116 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "type": "header",
+  "name": "Header group",
+  "sections": {
+    "announcement-bar": {
+      "type": "announcement-bar",
+      "blocks": {
+        "message-1": {
+          "type": "message",
+          "settings": {
+            "text": "Welcome to Omniluxe",
+            "learn_more_text": "Learn more",
+            "title": "",
+            "content": "",
+            "button_text": "",
+            "button_link": ""
+          }
+        },
+        "message_EGcpbT": {
+          "type": "message",
+          "settings": {
+            "text": "Visit Us at Mall Artha Gading",
+            "learn_more_text": "Mall Artha Gading",
+            "image": "shopify://shop_images/Dapatkan_Instant_Offer_dari_Omniluxe.png",
+            "title": "OMNILUXE",
+            "content": "<p>Mall Artha Gading GF/B07/09<br/>Jakarta Utara 14240</p>",
+            "button_text": "Direction",
+            "button_link": "https://maps.app.goo.gl/Y7hG6onuJAYX7nTt5"
+          }
+        }
+      },
+      "block_order": [
+        "message-1",
+        "message_EGcpbT"
+      ],
+      "settings": {
+        "announcement_bar_position": "non_sticky",
+        "announcement_text_size": "normal",
+        "autoplay": true,
+        "cycle_speed": 5,
+        "background": "#FFFFFF",
+        "text_color": "#303030",
+        "button_background": "#2E4B5D",
+        "button_text_color": "#ffffff"
+      }
+    },
+    "header": {
+      "type": "header",
+      "blocks": {
+        "mega_menu_WLmgqg": {
+          "type": "mega_menu",
+          "settings": {
+            "menu_item": "Watches",
+            "images_position": "right",
+            "image_1": "shopify://shop_images/Mega-Menu_3_16f6b21a-1597-4073-9595-9973df409904.jpg",
+            "image_1_heading": "",
+            "image_1_text": "BROWSE ALL",
+            "image_1_link": "shopify://collections/jam-tangan",
+            "image_2": "shopify://shop_images/Mega-Menu_1_d6d7bd2d-8abc-430a-96eb-38ace30a149a.jpg",
+            "image_2_heading": "",
+            "image_2_text": "MEN",
+            "image_2_link": "shopify://collections/men",
+            "image_3": "shopify://shop_images/Mega-Menu_2_efb43a69-0536-44a9-ae95-202de5e44620.jpg",
+            "image_3_heading": "",
+            "image_3_text": "WOMEN",
+            "image_3_link": "shopify://collections/ladies",
+            "image_4": "shopify://shop_images/Mega-Menu_4_5656e1a2-bcb5-44a1-b8f9-b20caa5ebc57.jpg",
+            "image_4_heading": "",
+            "image_4_text": "ACCESSORIES",
+            "image_4_link": "shopify://collections/accessories",
+            "image_5_heading": "",
+            "image_5_text": "",
+            "image_5_link": "",
+            "image_6_heading": "",
+            "image_6_text": "",
+            "image_6_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "mega_menu_WLmgqg"
+      ],
+      "settings": {
+        "enable_sticky_header": true,
+        "logo": "{{ shop.brand.logo }}",
+        "logo_max_width": 140,
+        "mobile_logo_max_width": 120,
+        "navigation_menu": "main-menu",
+        "sidebar_navigation_menu": "",
+        "header_layout": "logo_left_navigation_center",
+        "show_icons": true,
+        "reduce_desktop_padding": false,
+        "show_locale_selector": false,
+        "show_country_selector": false,
+        "enable_transparent_header": true,
+        "transparent_header_text_color": "#ffffff",
+        "transparent_logo": "shopify://shop_images/LOGO-HORIZONTAL-wo-Tagline-WHITE.png",
+        "search_menu": "",
+        "customer_account_menu": "customer-account-main-menu"
+      }
+    }
+  },
+  "order": [
+    "announcement-bar",
+    "header"
+  ]
+}

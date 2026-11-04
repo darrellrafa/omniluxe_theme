@@ -1,0 +1,481 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin language editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "shopify": {
+    "checkout": {
+      "general": {
+        "page_title": "Checkout",
+        "continue_button_label": "Lanjutkan",
+        "complete_purchase_button_label": "Menyelesaikan pesanan",
+        "edit_link_label": "Mengedit",
+        "all_rights_reserved": "Semua Hak, milik {{ shop_name }}",
+        "print_policies_link_label": "Cetak",
+        "cart": "Keranjang",
+        "close_modal_label": "Tutup",
+        "continue_to_shipping_method": "Terus pengiriman metode",
+        "continue_to_payment_method": "Lanjutkan untuk metode pembayaran",
+        "continue_to_review": "Meninjau pesanan",
+        "back_to_cart": "Kembali ke keranjang",
+        "back_to_contact_information": "Kembali ke informasi pelanggan",
+        "back_to_shipping_method": "Kembali ke metode pengiriman",
+        "back_to_payment_method": "Kembali ke metode pembayaran",
+        "edit_shipping_address": "Mengedit alamat pengiriman",
+        "edit_contact_information": "Mengedit informasi pelanggan",
+        "edit_shipping_method": "Mengedit metode pengiriman",
+        "edit_payment_method": "Mengedit metode pembayaran",
+        "edit_billing_address": "Mengedit alamat penagihan",
+        "contact_us_html": "Hubungi kami untuk informasi lebih lanjut",
+        "autocomplete_title": "Saran",
+        "footer": "Footer"
+      },
+      "contact": {
+        "title": "Informasi pelanggan",
+        "address_title": "Alamat",
+        "country_placeholder": "Negara",
+        "shipping_address_title": "Alamat pengiriman",
+        "customer_information_title": "Informasi pelanggan",
+        "email_label": "Email",
+        "email_placeholder": "Email",
+        "email_or_phone_label": "Email atau nomor telepon mobile",
+        "email_or_phone_placeholder": "Email atau nomor telepon mobile",
+        "stored_addresses_label": "Alamat tersimpan",
+        "new_address_label": "Alamat baru...",
+        "first_name_label": "Nama pertama",
+        "optional_first_name_label": "Nama pertama",
+        "first_name_placeholder": "Nama pertama",
+        "optional_first_name_placeholder": "Nama pertama",
+        "last_name_label": "Nama belakang",
+        "last_name_placeholder": "Nama belakang",
+        "company_label": "Perusahaan",
+        "optional_company_label": "Perusahaan (opsional)",
+        "company_placeholder": "Perusahaan",
+        "optional_company_placeholder": "Perusahaan (opsional)",
+        "address1_label": "Alamat",
+        "address1_placeholder": "Alamat",
+        "address2_label": "Apt, suite, dll.",
+        "optional_address2_label": "Apt, suite, dll (opsional)",
+        "address2_placeholder": "Apt, suite, dll.",
+        "optional_address2_placeholder": "Apt, suite, dll (opsional)",
+        "city_label": "Kota",
+        "city_placeholder": "Kota",
+        "country_label": "Negara",
+        "province_label": "Provinsi",
+        "province_placeholder": "Provinsi",
+        "phone_label": "Telepon",
+        "optional_phone_label": "Telepon (opsional)",
+        "phone_placeholder": "Telepon",
+        "optional_phone_placeholder": "Telepon (opsional)",
+        "zip_code_placeholder": "Kode pos",
+        "postal_code_placeholder": "Kode pos",
+        "postcode_placeholder": "Kodepos",
+        "pincode_placeholder": "Kode PIN"
+      },
+      "customer_account": {
+        "not_user_label": "Tidak {{ first_name }}?",
+        "have_an_account_label": "Sudah memiliki account?",
+        "sign_in_link_label": "Masuk",
+        "sign_out_link_label": "Logout",
+        "save_my_information_label": "Menyimpan informasi ini untuk waktu berikutnya"
+      },
+      "stock": {
+        "page_title": "Inventarisasi masalah",
+        "title": "Inventarisasi masalah",
+        "items_unavailable_notice": "Beberapa produk yang menjadi tidak tersedia dan keranjang Anda telah diperbarui. Kami Mohon maaf atas ketidaknyamanan.",
+        "product_column_header": "Produk",
+        "quantity_column_header": "Kuantitas",
+        "price_column_header": "Harga",
+        "status_column_header": "Status",
+        "removed_from_cart_notice": "Dihapus dari keranjang",
+        "sold_out_label": "Terjual habis",
+        "reduced_label": "Dikurangi",
+        "reduced_with_quantity_label": "Hanya {{ quantity_available }} kiri",
+        "remove_from_cart_button_label": "Hapus dari keranjang",
+        "continue_shopping_button_label": "Lanjutkan",
+        "go_back_to_cart_button_label": "Kembali ke keranjang belanja saya"
+      },
+      "order_summary": {
+        "title": "Ringkasan pesanan",
+        "order_name_label": "Urutan {{ name }}",
+        "shopping_cart_label": "Keranjang belanja",
+        "discount_title": "Diskon",
+        "discount_label": "Diskon",
+        "discount_placeholder": "Diskon",
+        "gift_card_title": "Kartu hadiah",
+        "gift_card_label": "Kartu hadiah",
+        "gift_card_placeholder": "Kartu hadiah",
+        "gift_card_and_discount_title": "Hadiah kartu atau diskon kode",
+        "gift_card_and_discount_label": "Hadiah kartu atau diskon kode",
+        "gift_card_and_discount_placeholder": "Hadiah kartu atau diskon kode",
+        "show_discount_form_link_label": "Memiliki kode diskon? Klik di sini untuk masuk",
+        "remove_gift_card_label": "Kartu hadiah yang jelas",
+        "remove_discount_label": "Menghapus DISKON",
+        "free_shipping_discount_label": "Pengiriman gratis",
+        "apply_discount_button_label": "Menerapkan",
+        "cart_does_not_meet_discount_requirements_notice": "Keranjang Anda tidak memenuhi persyaratan untuk kode diskon {{ code }}",
+        "discount_requires_customer_notice": "Silahkan kirimkan informasi pengiriman untuk menerapkan kode diskon {{ code }}",
+        "customer_does_not_meet_discount_requirements_notice": "Informasi pelanggan tidak memenuhi persyaratan untuk kode diskon {{ code }}",
+        "shipping_information_does_not_meet_discount_requirements_notice": "Informasi pengiriman Anda tidak memenuhi persyaratan untuk kode diskon {{ code }}",
+        "customer_already_used_once_per_customer_discount_notice": "Kode diskon {{ code }} telah digunakan",
+        "subtotal_label": "Subtotal",
+        "shipping_label": "Pengiriman",
+        "shipping_pending_message": "—",
+        "taxes_label": "Pajak",
+        "total_label": "Total",
+        "partial_total_label": "Total",
+        "free_total_label": "Gratis",
+        "paid_label": "Dibayar",
+        "payment_due_label": "Pembayaran",
+        "vat_label_html": "Termasuk {{ amount }} pajak",
+        "discount_and_gift_card_savings_notice": "Setelah {{ discount_amount }} {{ gift_card_amount }} dan diskon di kartu hadiah",
+        "discount_savings_notice": "Setelah {{ discount_amount }} di DISKON",
+        "gift_card_savings_notice": "Setelah {{ gift_card_amount }} dalam kartu hadiah",
+        "cost_table_title": "Ringkasan biaya",
+        "description_label": "Deskripsi",
+        "price_label": "Harga",
+        "quantity_label": "Kuantitas",
+        "product_image_label": "Gambar produk",
+        "scroll_order_summary": "Gulir untuk item lebih",
+        "expand_order_summary": "Lihat pesanan ringkasan",
+        "collapse_order_summary": "Sembunyikan ringkasan pesanan"
+      },
+      "shipping": {
+        "title": "Metode pengiriman",
+        "shipping_method_notice": "",
+        "waiting_on_rate_notice": "Harap tunggu sementara kami mengambil tersedia TARIF pengiriman...",
+        "no_rates_for_cart_or_destination_notice": "Ada tidak ada metode pengiriman yang tersedia untuk keranjang atau tujuan.",
+        "no_rates_for_country_notice": "Kami tidak menawarkan pengiriman ke {{ country }}.",
+        "no_rates_contact_notice": "Hubungi kami untuk informasi lebih lanjut",
+        "free_rate_label": "Gratis",
+        "cheapest_rate_label": "Termurah",
+        "please_enter_your_shipping_information_notice": "Masukkan informasi pengiriman Anda.",
+        "estimated_delivery_date_range": "{{minimal}} {{ maximum }} hari",
+        "shipping_line_phone_label": "Ponsel nomor (diperlukan)",
+        "shipping_line_phone": "Courier Anda dapat menggunakan nomor ini untuk menghubungi Anda.",
+        "estimated_delivery_date": {
+          "one": "1 hari kerja",
+          "other": "{{count}} hari kerja"
+        },
+        "other_method": {
+          "zero": "Tidak ada metode lain yang tersedia",
+          "one": "1 metode lain yang tersedia di ",
+          "other": "{{count}} metode lain yang tersedia mulai dari "
+        }
+      },
+      "payment": {
+        "amazon_payments_label": "Amazon membayar",
+        "amazon_payments_login_hint": "Anda akan diminta untuk login dengan Amazon.",
+        "amazon_payments_logout": "Log out dari Amazon membayar",
+        "title": "Metode pembayaran",
+        "amount_left_to_pay_label": "Pembayaran:",
+        "gift_card_code_label": "Kode kartu hadiah",
+        "apply_gift_card_button_label": "Menerapkan",
+        "gift_card_balance_label": "Saldo:",
+        "show_gift_card_form_link_label": "Memiliki kartu hadiah? Klik di sini untuk masuk",
+        "supported_card_brands_more_label": "dan banyak lagi...",
+        "card_number_label": "Nomor kartu",
+        "card_number_placeholder": "Nomor kartu",
+        "card_pay_with": "Membayar dengan:",
+        "card_security_notice": "Semua transaksi aman dan dienkripsi.",
+        "name_on_card_label": "Nama pada kartu",
+        "name_on_card_placeholder": "Nama pada kartu",
+        "card_expiry_month_label": "Kedaluwarsa bulan",
+        "card_expiry_month_placeholder": "MM",
+        "card_expiry_year_label": "Tahun kadaluwarsa",
+        "card_expiry_year_placeholder": "YY",
+        "card_expiry_label": "Kedaluwarsa",
+        "card_expiry_short_label": "MM / YY",
+        "card_expiry_long_label": "Kedaluwarsa (MM / YY)",
+        "card_expiry_placeholder": "MM / YY",
+        "card_expiry_aria_description": "Format tanggal kedaluwarsa: bulan, bulan, tahun, tahun",
+        "card_verification_value_label": "CVV",
+        "card_verification_value_placeholder": "CVV",
+        "card_verification_value_explanation": "3 digit kode keamanan biasanya ditemukan di belakang kartu Anda. Kartu American Express memiliki kode 4-digit yang berada di depan.",
+        "card_verification_value_explanation_amex": "4 digit kode keamanan di bagian depan kartu Anda",
+        "card_verification_value_explanation_other": "3 digit kode keamanan di bagian belakang kartu Anda",
+        "card_start_month_label": "Awal bulan",
+        "card_start_month_placeholder": "MM",
+        "card_start_year_label": "Mulai tahun",
+        "card_start_year_placeholder": "YY",
+        "card_start_label": "Mulai",
+        "card_start_long_label": "Terbitan tanggal (MM / YY)",
+        "card_start_placeholder": "MM / YY",
+        "card_issue_number_label": "Nomor penerbitan",
+        "card_issue_number_placeholder": "Nomor penerbitan",
+        "card_change_label": "Perubahan",
+        "ends_with_label": "berakhir dengan {{ last_digits }}",
+        "same_billing_address_label": "Sama seperti alamat pengiriman",
+        "different_billing_address_label": "Menggunakan alamat penagihan berbeda",
+        "free_order_notice_html": "Pesanan Anda adalah <strong>gratis</strong>. Pembayaran tidak diperlukan.",
+        "offsite_gateway_redirect_hint": "Setelah mengklik \"{{ button_label }}\", Anda akan diarahkan ke {{ gateway_label }} untuk menyelesaikan pembelian Anda aman.",
+        "billing_address_title": "Alamat penagihan",
+        "no_js_credit_card_fields_redirect_hint": "Anda akan diarahkan ke gateway pembayaran untuk menambahkan informasi pembayaran Anda.",
+        "card_fields_processing_error": "Terjadi error saat memproses informasi pembayaran. Harap coba lagi nanti.",
+        "technical_error": "Pembayaran tidak dapat diproses sekarang karena masalah teknis. Harap coba lagi dalam beberapa menit.",
+        "no_method_error": "Berdasarkan lokasi atau produk di keranjang Anda, ada tidak ada metode pembayaran yang tersedia.",
+        "not_configured_error": "Gateway pembayaran tidak saat ini dikonfigurasi.",
+        "missing_credit_card_error": "Tidak dapat memproses pembayaran tanpa kartu kredit",
+        "order_covered_by_gift_cards_notice": {
+          "one": "Pesanan Anda ditutupi oleh kartu hadiah Anda.",
+          "other": "Pesanan Anda ditutupi oleh kartu hadiah Anda."
+        },
+        "card_fields_unavailable_html": {
+          "one": "Kredit dan kartu debet pembayaran tidak tersedia sekarang.<br>Silahkan <a href=\"javascript:window.location.reload();\">refresh halaman ini</a> atau coba lagi nanti.",
+          "other": "Kredit dan kartu debet pembayaran tidak tersedia sekarang.<br>Silahkan <a href=\"javascript:window.location.reload();\">refresh halaman ini</a> atau mencoba metode pembayaran yang berbeda."
+        }
+      },
+      "payment_summary": {
+        "gift_card_current_balance_notice": "Saldo {{ amount }}",
+        "credit_card_expires_on_notice": "Berakhir pada {{ month }} / {{ year }}",
+        "express_payment_gateway_label": "Express",
+        "manual_payment_gateway_label": "Manual",
+        "billing_address_title": "Alamat penagihan",
+        "free_label": "Gratis"
+      },
+      "field_errors": {
+        "email_invalid": "Harap masukkan alamat email yang valid",
+        "email_or_phone_blank": "Masukkan nomor ponsel atau alamat email Anda",
+        "email_or_phone_invalid": "Masukkan alamat email yang valid atau nomor telepon seluler",
+        "address_first_name_blank": "Masukkan nama pertama Anda",
+        "address_last_name_blank": "Silahkan masukkan nama terakhir Anda",
+        "address_address1_blank": "Silakan masukkan alamat Anda",
+        "address_address2_blank": "Masukkan suite Anda apt, dll",
+        "address_city_blank": "Masukkan kota Anda",
+        "address_country_blank": "Silakan pilih negara Anda",
+        "address_province_blank": "Silakan pilih negara Anda / Provinsi",
+        "address_company_blank": "Harap masukkan nama perusahaan",
+        "address_phone_blank": "Masukkan nomor telepon",
+        "address_zip_blank": "Masukkan Anda zip / postal code",
+        "address_zip_invalid_for_country": "Masukkan berlaku zip / postal kode untuk {{ country }}",
+        "address_zip_invalid_for_country_and_province": "Masukkan berlaku zip / postal code untuk {{ province }}, {{ country }}",
+        "credit_card_name_blank": "Silahkan masukkan nama Anda seperti yang ditunjukkan pada kartu kredit",
+        "credit_card_number_invalid": "Harap masukkan nomor kartu kredit yang valid",
+        "credit_card_expiry_invalid": "Harap masukkan tanggal kedaluwarsa yang berlaku",
+        "credit_card_month_invalid": "Masukkan sebulan berlaku kedaluwarsa",
+        "credit_card_year_invalid": "Masukkan satu tahun kadaluwarsa berlaku",
+        "credit_card_start_invalid": "Harap masukkan tanggal mulai berlaku",
+        "credit_card_start_month_invalid": "Masukkan sebulan mulai berlaku",
+        "credit_card_start_year_invalid": "Masukkan setahun mulai berlaku",
+        "credit_card_verification_value_blank": "Masukkan CVV",
+        "reduction_code_code_not_found": "Kode ini tidak cocok setiap kartu hadiah aktif atau diskon. Itu dimasukkan dengan benar?",
+        "reduction_code_discount_not_found": "Tidak dapat menemukan diskon berlaku pencocokan kode masuk",
+        "reduction_code_gift_card_code_invalid": "Kode ini tidak valid",
+        "reduction_code_gift_card_unusable": "Tidak dapat menggunakan kartu hadiah pada urutan yang mengandung kartu hadiah.",
+        "shipping_line_phone_blank": "Untuk menggunakan metode pengiriman ini, Anda harus memasukkan nomor ponsel Anda.",
+        "shipping_line_phone_invalid": "Untuk menggunakan metode pengiriman ini, Anda harus memasukkan nomor telepon seluler 10 digit.",
+        "gift_card_already_applied": "Karunia ini kartu telah diterapkan untuk pesanan Anda",
+        "gift_card_disabled": "Tampak seperti karunia ini kartu ini tidak lagi tersedia",
+        "gift_card_expired": "Tampak seperti karunia ini kartu telah berakhir",
+        "gift_card_depleted": "Sepertinya ada sisa dana pada kartu hadiah ini",
+        "gift_card_currency_mismatch": "Hanya kartu hadiah yang dibeli di {{ checkout_currency }} dapat diterapkan ke urutan ini",
+        "payment_gateway_needs_paid_plan_error": "Untuk menyelesaikan ini checkout Anda harus pada rencana dibayar"
+      },
+      "payment_errors": {
+        "generic_error": "Ada masalah saat memproses pembayaran Anda. Silakan coba lagi.",
+        "rejected_transaction": "Penyedia pembayaran menolak transaksi. Silakan coba lagi.",
+        "credit_card_processing": "Kita mengalami kesulitan teknis saat mencoba untuk memproses kartu kredit Anda. Harap coba lagi dalam beberapa menit.",
+        "order_total_changed": "Jumlah pesanan Anda telah berubah. Pastikan Anda menyadari perubahan sebelum menyelesaikan pesanan Anda.",
+        "payment_processing": "Ada masalah dengan layanan pembayaran. Silahkan Pilih metode pembayaran yang berbeda atau coba lagi nanti."
+      },
+      "shipping_errors": {
+        "shipping_method": "Keranjang Anda telah dimodifikasi dan tingkat pengiriman Anda dipilih sebelumnya tidak lagi berlaku. Pilih tingkat yang baru."
+      },
+      "alternative_payment_method_banner": {
+        "or": "ATAU"
+      },
+      "alternative_payment_method": {
+        "button_html": "Checkout dengan: {{ method }}"
+      },
+      "paypal": {
+        "button_html": "Checkout berlogo {{}}"
+      },
+      "apple_pay": {
+        "button_html": "Membeli berlogo {{}}"
+      },
+      "processing": {
+        "redirecting_page_title": "Mengarahkan...",
+        "redirecting_title": "Mengarahkan...",
+        "redirecting_notice": "Harap tunggu sementara kami redirect Anda.",
+        "complete_your_purchase_title": "Complete pembelian Anda",
+        "continue_to_payment_gateway_notice": "Lanjutkan ke gateway pembayaran untuk menambahkan informasi pembayaran Anda.",
+        "continue_to_payment_gateway_button_label": "Lanjutkan ke gateway pembayaran",
+        "complete_your_purchase_title_error": "Mengoreksi informasi pembayaran Anda",
+        "continue_to_payment_gateway_notice_error": "Informasi pembayaran Anda berisi kesalahan. Kembali ke gateway pembayaran untuk memperbaikinya.",
+        "continue_to_payment_gateway_button_label_error": "Kembali ke gateway pembayaran",
+        "page_title": "Urutan pengolahan",
+        "title": "Urutan pengolahan",
+        "wait": {
+          "short": "Pesanan yang sedang diproses.",
+          "long": "Anda akan menerima email segera setelah pesanan Anda yang diproses. Saat ini ada volume tinggi pesanan.",
+          "no_auto_refresh_html": "Jika Anda tidak secara otomatis dialihkan, {{ link }}.",
+          "refresh_this_page": "refresh halaman ini",
+          "medium": {
+            "one": "Pesanan yang sedang diproses. Waktu tunggu perkiraan yaitu 1 menit.",
+            "other": "Pesanan yang sedang diproses. Perkiraan menunggu waktu adalah {{ count }} menit."
+          }
+        }
+      },
+      "payment_gateway": {
+        "credit_card_label": "Kartu kredit"
+      },
+      "thank_you": {
+        "title": "Terima kasih atas pembelian Anda!",
+        "confirmation_email_sent_text": "Email konfirmasi telah dikirim ke {{ email }}",
+        "return_to_store_link_label": "Lanjutkan belanja",
+        "print_link_label": "Cetakan tanda terima",
+        "payment_information_title": "Informasi pembayaran",
+        "shipping_information_title": "Pengiriman informasi",
+        "page_title": "Terima kasih {{ first_name }}!",
+        "page_title_no_name": "Terima kasih!",
+        "cancelled_page_title": "Pesanan yang dibatalkan",
+        "customer_information_title": "Informasi pelanggan",
+        "billing_address_title": "Alamat penagihan",
+        "shipping_address_title": "Alamat pengiriman",
+        "payment_method_title": "Metode pembayaran",
+        "shipping_method_title": "Metode pengiriman",
+        "tracking_number": "Nomor pelacakan:",
+        "company_tracking_number": "{{perusahaan}} nomor pelacakan:",
+        "estimated_arrival": "Tanggal perkiraan pengiriman: ",
+        "re-order": "Mengurutkan kembali item yang sama",
+        "confirmed": "Dikonfirmasi",
+        "thank_you_title": "Pesanan Anda dikonfirmasi",
+        "thank_you_description_html": "Kami telah menerima pesanan Anda, dan kita sudah siap. Email konfirmasi telah dikirim ke {{ email }}. Kembali ke Halaman ini untuk update pada status pesanan Anda.",
+        "thank_you_description": "Kami telah menerima pesanan Anda, dan kita sudah siap. Kembali ke Halaman ini untuk update pada status pesanan Anda.",
+        "confirmed_title": "Pengiriman Anda dikonfirmasi",
+        "confirmed_description_html": "Kami telah menerima pesanan Anda, dan kita sudah siap. Email konfirmasi telah dikirim ke {{ email }}. Kembali ke Halaman ini untuk update pada status pengiriman Anda.",
+        "confirmed_description": "Kami telah menerima pesanan Anda, dan kita sudah siap. Kembali ke Halaman ini untuk update pada status pengiriman Anda.",
+        "order_updates_title": "Update pesanan",
+        "order_updates_description_html": "Pembaruan akan dikirim ke {{ customer_contact }}",
+        "in_transit": "Dalam perjalanan",
+        "in_transit_title": "Pengiriman Anda adalah dalam perjalanan",
+        "in_transit_description": "Kembali ke Halaman ini untuk update pada status pengiriman Anda.",
+        "in_transit_description_days": "Anda harus menerima paket Anda dalam {{ number }} hari berikutnya.",
+        "in_transit_description_today": "Anda harus menerima paket Anda hari ini.",
+        "in_transit_description_tomorrow": "Anda harus menerima paket Anda di hari berikutnya.",
+        "no_tracking_number": "Ada tidak ada nomor pelacakan untuk pengiriman ini.",
+        "out_for_delivery": "Untuk pengiriman",
+        "out_for_delivery_title": "Pengiriman Anda adalah keluar untuk pengiriman",
+        "out_for_delivery_description_html": "Pengiriman Anda pada truk pengiriman-berharap untuk datang hari ini. Jika Anda masih belum menerima itu dalam 2 hari berikutnya, silahkan {{ contact_us }}.",
+        "attempted_delivery": "Percobaan pengiriman",
+        "attempted_delivery_title": "Sebuah usaha telah dilakukan untuk memberikan Anda pengiriman",
+        "attempted_delivery_description_html": "Sebuah usaha telah dilakukan untuk memberikan kiriman Anda tapi itu tidak berhasil. Silahkan {{ contact_us }} untuk mengatur usaha pengiriman lain.",
+        "delivered": "Disampaikan",
+        "delivered_title": "Kiriman Anda telah disampaikan",
+        "delivered_description_html": "Kiriman Anda telah dikirim ke alamat yang Anda berikan. Jika Anda belum menerima itu, atau jika Anda memiliki masalah lain, silahkan {{ contact_us }}.",
+        "contact_us": "Hubungi kami",
+        "contact_us_lowercase": "Hubungi kami",
+        "contact_us_html": "Perlu bantuan? {{ contact_us }}",
+        "updated_time": "Diperbarui {{ time_ago }} yang lalu",
+        "failure": "Tidak disampaikan",
+        "failed_title": "Pengiriman Anda tidak dapat terkirim",
+        "failed_contact_merchant": "Menurut {{ company }}, agar Anda tidak dapat terkirim seperti yang direncanakan. Hubungi {{ company }} untuk mengatur usaha pengiriman lain.",
+        "failed_contact_merchant_no_company": "Pesanan Anda tidak dapat terkirim seperti yang direncanakan. Silahkan hubungi kami untuk mengatur usaha pengiriman lain.",
+        "non_shippable_title": "Pesanan Anda lengkap",
+        "login_title": "Log in untuk melihat semua rincian pengiriman",
+        "login_description": "Anda dapat menemukan nomor pesanan Anda dalam penerimaan yang Anda terima melalui email.",
+        "login_not_customer_html": "Tidak {{ name }}? Anda bisa {{ link }}",
+        "cancelled_title": "Pesanan Anda telah dibatalkan",
+        "cancelled_description": "Pesanan dibatalkan tanggal {{}}. Silahkan hubungi kami jika Anda memiliki pertanyaan.",
+        "order_number_label": "Nomor pesanan",
+        "customer_validation_error": "Tidak valid email atau urutan nomor.",
+        "login": "Masuk",
+        "unfulfilled_items_title": "Mempersiapkan untuk pengiriman",
+        "unfulfilled_items_description": "Kami sedang mempersiapkan barang-barang untuk pengiriman.",
+        "opt_in_message_html": "Informasi Anda berhasil diselamatkan dengan <span class=\"emphasis\">Shopify membayar</span>.",
+        "order_updates_description_missing": "Anda tidak menerima pembaruan pengiriman.",
+        "order_updates_description_email_and_phone_html": "Pembaruan akan dikirim ke {{ email }} dan {{ phone }}.",
+        "order_updates_subscribe_to_email_notifications": "Dapatkan update pengiriman melalui email",
+        "order_updates_subscribe_to_email_or_phone_notifications": "Dapatkan update melalui email atau SMS pengiriman",
+        "order_updates_subscribe_to_phone_notifications": "Dapatkan update pengiriman SMS",
+        "order_updates_submit_subscription": "Kirim",
+        "login_reorder_link_text": {
+          "one": "membeli produk ini juga ›",
+          "other": "membeli produk ini juga ›"
+        },
+        "marker": {
+          "current": "Lokasi pengiriman",
+          "shipping": "Alamat pengiriman"
+        },
+        "fulfillment": {
+          "fulfilled_table_title": "Item dalam pengiriman ini",
+          "unfulfilled_table_title": "Mempersiapkan untuk pengiriman barang",
+          "product_image_label": "Gambar produk",
+          "description_label": "Deskripsi",
+          "quantity_label": "Kuantitas"
+        }
+      },
+      "review": {
+        "title": "Meninjau pesanan",
+        "checkout_as_guest": "Checkout sebagai tamu"
+      },
+      "newsletter": {
+        "subscription_checkbox_label": "Daftar ke newsletter kami"
+      },
+      "shop_policies": {
+        "refund_policy": "Kebijakan pengembalian",
+        "privacy_policy": "Kebijakan Privasi",
+        "terms_of_service": "Persyaratan Layanan"
+      },
+      "remember_me": {
+        "authorize_purchase": "Otorisasi pembelian",
+        "title": "Ingat saya",
+        "label": "Simpan informasi saya untuk checkout lebih cepat",
+        "description_html": "Waktu berikutnya Anda memeriksa di sini atau di toko-toko lain yang didukung oleh Shopify, Anda akan menerima kode melalui SMS untuk aman membeli dengan Shopify membayar.",
+        "mobile_phone_icon_alt": "Ponsel",
+        "mobile_phone_number": "Nomor ponsel",
+        "terms_and_privacy_html": "Dengan terus, Anda setuju untuk Shopify membayar 's <a class=\"link--muted\" data-modal=\"\" data-remember-policy-link=\"privacy_policy\" title=\"Shopify Pay Privacy Policy\" href=\"{{ privacy_href }}\">Kebijakan privasi</a> dan <a class=\"link--muted\" data-modal=\"\" data-remember-policy-link=\"terms\" title=\"Shopify Pay Terms of Service\" href=\"{{ terms_href }}\">Persyaratan layanan</a>.",
+        "modal": {
+          "guest": {
+            "title": "Menggunakan informasi yang tersimpan",
+            "paragraph": "Anda disimpan informasi Anda selama pembelian sebelumnya, sehingga Anda tidak perlu untuk kembali. Untuk menggunakan informasi ini untuk checkout, masukkan kode verifikasi yang dikirim ke telepon Anda."
+          },
+          "logged_in_customer": {
+            "title": "Memeriksa lebih cepat",
+            "paragraph": "Anda disimpan informasi pembayaran selama pembelian sebelumnya, sehingga Anda tidak perlu untuk kembali. Untuk menggunakan informasi ini untuk checkout, masukkan kode verifikasi yang dikirim ke telepon Anda."
+          },
+          "verification_code_label": "Nomor kode verifikasi yang Anda terima melalui pesan teks",
+          "fill_manually": "Tutup",
+          "code_sending_html": "Mengirimkan kode ke • ••• (•••)<span data-remember-me-customer-phone=\"\"></span>",
+          "code_sent_html": "Kode yang dikirimkan ke • ••• (•••)<span data-remember-me-customer-phone=\"\"></span>",
+          "code_sending_clear_html": "Mengirimkan kode ke {{ phone }}",
+          "code_sent_clear_html": "Kode yang dikirim ke {{ phone }}",
+          "errors": {
+            "enter_valid_code": "Kode yang Anda masukkan tidak benar",
+            "enter_a_code": "Masukkan kode verifikasi yang valid",
+            "code_not_received": {
+              "body": "Tidak menerima kode Anda?",
+              "contact_information_step": {
+                "link": "Lanjutkan ke proses checkout reguler"
+              },
+              "payment_information_step": {
+                "link": "Masukkan informasi pembayaran Anda"
+              }
+            },
+            "server": {
+              "title": "Shopify membayar tidak tersedia",
+              "body": "Informasi yang tersimpan tidak dapat digunakan untuk pembelian ini. Silakan lanjutkan untuk checkout biasa."
+            },
+            "throttle": {
+              "title": "Upaya batas tercapai",
+              "body": "Kode Anda telah salah memasukkan terlalu banyak kali. Silakan lanjutkan untuk checkout biasa."
+            },
+            "authorize": {
+              "title": "Shopify membayar tidak tersedia",
+              "body": "Informasi yang tersimpan tidak dapat digunakan pada saat ini. Masukkan informasi pembayaran untuk melanjutkan.",
+              "link": "Masukkan informasi pembayaran"
+            }
+          }
+        }
+      },
+      "notifications": {
+        "title": "Pemberitahuan"
+      }
+    }
+  }
+}

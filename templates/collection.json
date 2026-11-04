@@ -1,0 +1,141 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "165442998453727ba8": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "small",
+        "image": "shopify://shop_images/Newslater-2.jpg",
+        "subheading": "COLLECTION",
+        "title": "scroll to discover",
+        "content": "<p>We offer any kind of luxury watch from any brand</p>",
+        "button_text": "",
+        "button_link": "",
+        "link_style": "link",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "middle_center",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#0d0d0d",
+        "overlay_opacity": 50
+      }
+    },
+    "165447437166277481": {
+      "type": "logo-list",
+      "blocks": {
+        "16544743713fc769e3-4": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/AUDEMARS_PIGUET.png",
+            "link": "https://omniluxe.id/collections/audemars-piguet"
+          }
+        },
+        "16544743713fc769e3-2": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/BREITLING.png",
+            "link": "https://omniluxe.id/collections/breitling"
+          }
+        },
+        "16544743713fc769e3-1": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/HUBLOT.png",
+            "link": "https://omniluxe.id/collections/hublot"
+          }
+        },
+        "16544743713fc769e3-5": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/OMEGA.png",
+            "link": "https://omniluxe.id/collections/omega"
+          }
+        },
+        "16544743713fc769e3-0": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/ROLEX.png",
+            "link": "https://omniluxe.id/collections/rolex"
+          }
+        },
+        "16544743713fc769e3-3": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/A.LANGE_SOHNE_GLASHUTTE.png",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16544743713fc769e3-4",
+        "16544743713fc769e3-2",
+        "16544743713fc769e3-1",
+        "16544743713fc769e3-5",
+        "16544743713fc769e3-0",
+        "16544743713fc769e3-3"
+      ],
+      "disabled": true,
+      "settings": {
+        "reveal_on_scroll": false,
+        "subheading": "",
+        "title": "",
+        "button_text": "",
+        "button_link": "",
+        "stack_logos": false,
+        "background": "#ffffff",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)",
+        "logo_background": "rgba(0,0,0,0)"
+      }
+    },
+    "collection-banner": {
+      "type": "collection-banner",
+      "settings": {
+        "show_collection_image": true,
+        "show_collection_title": false,
+        "show_collection_description": true,
+        "text_width": "medium",
+        "section_height": "small",
+        "image_text_color": "#ffffff",
+        "image_overlay_color": "#000000",
+        "image_overlay_opacity": 0,
+        "quick_links": ""
+      }
+    },
+    "main": {
+      "type": "main-collection",
+      "settings": {
+        "show_sort_by": true,
+        "products_per_page": 50,
+        "mobile_products_per_row": "2",
+        "desktop_products_per_row": 5,
+        "show_filters": true,
+        "show_filter_group_name": false,
+        "show_color_swatch": true,
+        "open_first_filter_group": false,
+        "filter_position": "always_visible",
+        "promotion_position": "top",
+        "promotion_height": "small"
+      }
+    }
+  },
+  "order": [
+    "165442998453727ba8",
+    "165447437166277481",
+    "collection-banner",
+    "main"
+  ]
+}

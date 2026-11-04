@@ -1,0 +1,294 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "liquid_yGditn": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"ProductPage-label\">\n{% if product.tags contains \"__label2:Consignment\"  %}\n<div style=\"display: inline-block; padding: 7px 8px; font-size: 12px; color: #ffffff; background-color: rgba(46, 75, 93, 1); border: 2px solid rgba(39, 63, 78, 1); text-transform: uppercase; text-align: center; cursor: default;\">\n            Consignment\n        </div>\n{% endif %}\n</div>"
+          }
+        },
+        "b97d3059-8476-4251-8a1e-04b0e4506218": {
+          "type": "variant_picker",
+          "disabled": true,
+          "settings": {
+            "hide_sold_out_variants": false,
+            "selector_mode": "block",
+            "color_mode": "color",
+            "size_chart_page": ""
+          }
+        },
+        "60b0bd8e-aa86-4141-a248-719b2d83c5e6": {
+          "type": "description",
+          "disabled": true,
+          "settings": {}
+        },
+        "liquid_aKdjYD": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "{% if product.vendor == 'Como' %}\n<div class=\"product-form__button\" data-shopify-editor-block=\"{&quot;id&quot;:&quot;button_xXCyef&quot;,&quot;type&quot;:&quot;button&quot;}\"><a href=\"https://cdn.shopify.com/s/files/1/0643/8869/4268/files/MANUAL_BOOK.pdf?v=1721716767\" class=\"button button--primary \" style=\"--primary-button-background: 46, 75, 93; --primary-button-text-color: 255, 255, 255\" data-live-text-setting=\"section.template--16520970174716__main.block.button_xXCyef.text/escape\">Download Manual User</a>\n          </div>\n{% endif %}"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "disabled": true,
+          "settings": {
+            "show_payment_button": true,
+            "atc_button_background": "rgba(0,0,0,0)",
+            "atc_button_text_color": "rgba(0,0,0,0)",
+            "buy_now_button_background": "rgba(0,0,0,0)",
+            "buy_now_button_text_color": "rgba(0,0,0,0)"
+          }
+        },
+        "c35a333c-af6e-44ca-98d8-a1036121177f": {
+          "type": "shopify://apps/seedgrow-whatsapp-chat/blocks/app-block/b85b5e45-9cea-417a-9b9e-0aa961ccf3ef",
+          "settings": {
+            "button_label": "Click Here to Offer",
+            "button_style": "square",
+            "background_color": "#2db742",
+            "text_color": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "liquid_yGditn",
+        "b97d3059-8476-4251-8a1e-04b0e4506218",
+        "60b0bd8e-aa86-4141-a248-719b2d83c5e6",
+        "liquid_aKdjYD",
+        "buy_buttons",
+        "c35a333c-af6e-44ca-98d8-a1036121177f"
+      ],
+      "settings": {
+        "show_vendor": true,
+        "show_sku": false,
+        "show_taxes_included": false,
+        "show_product_rating": true,
+        "show_sticky_add_to_cart": true,
+        "show_share_buttons": true,
+        "help_page": "",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "show_thumbnails_on_mobile": false,
+        "desktop_thumbnails_position": "bottom",
+        "transition_effect": "slide"
+      }
+    },
+    "product-content": {
+      "type": "product-content",
+      "blocks": {
+        "description": {
+          "type": "description",
+          "settings": {}
+        },
+        "c3a0ad59-638e-45aa-b7f9-b7a071004ef5": {
+          "type": "trust",
+          "disabled": true,
+          "settings": {
+            "icon_1": "picto-fast-delivery",
+            "title_1": "Shipping & Returns",
+            "content_1": "<p>We offer complimentary local delivery on our watches. If ordering from overseas, delivery will depend on the value of the timepiece and the destination. <strong>All import taxes and duties are the responsibility of the buyer.</strong></p><p>[Local Delivery]<br/>Shipping via JNE after payment<br/>Cash on Delivery preferred<br/>No Refund<br/><br/>[Overseas Delivery]<br/>Shipping via DHL or FEDEX<br/>No Refund</p><p>If ordering before 11 AM (JABODETABEK areas only), your watch will be sent the same working day. The courier will depend on the value of the watch, with all watches delivered the next working day.</p>",
+            "icon_2": "picto-warranty",
+            "title_2": "Warranty",
+            "content_2": "<p>All of our timepieces are guaranteed to be of high quality. If something goes wrong, we’ll always strive to fix it in a timely manner and to the best of our ability. To everyone at Omniluxe, client satisfaction and trust are of the utmost importance.</p><p>The unworn watches that we sold at Omniluxe are covered by the warranty from the original manufacturer. For pre-owned watches, unless stated otherwise, are covered by either a limited <strong>six months or twelve months (only for Rolex Watch) warranty</strong>. This excludes any damage sustained due to improper use or accident. Due to their age, some pre-owned watches should not be subjected to the same conditions as when new.</p><p>Any of our pre-owned watches which have been serviced by their respective manufacturer, will carry the manufacturer’s servicing guarantee. This is separate and supersedes, the standard warranty offered by Omniluxe.</p><p>Please see our Terms & Conditions for further information. You can write to us directly at omniluxe.id@gmail, for further clarification.</p>",
+            "icon_3": "picto-address",
+            "title_3": "Store Information",
+            "content_3": "<p>Pickup available, usually ready in 24 hours</p><p>Mall Artha Gading<br/>Ground Floor B07/09<br/>OMNILUXE <br/>North Jakarta<br/>Jakarta<br/>Indonesia</p>"
+          }
+        },
+        "d558faab-e53a-4926-b5b3-cc1a450b51a3": {
+          "type": "content",
+          "settings": {
+            "title": "",
+            "content": "",
+            "page": "warranty"
+          }
+        },
+        "68aca5e2-4646-4422-9bcb-366104fcb707": {
+          "type": "content",
+          "settings": {
+            "title": "",
+            "content": "",
+            "page": "delivery"
+          }
+        },
+        "29f54b3c-e811-46b2-8cb9-670ade6f5b08": {
+          "type": "content",
+          "disabled": true,
+          "settings": {
+            "title": "",
+            "content": "",
+            "page": "store"
+          }
+        },
+        "898022a2-d4b0-40bc-bb54-7fca023d9b83": {
+          "type": "content",
+          "disabled": true,
+          "settings": {
+            "title": "",
+            "content": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "description",
+        "c3a0ad59-638e-45aa-b7f9-b7a071004ef5",
+        "d558faab-e53a-4926-b5b3-cc1a450b51a3",
+        "68aca5e2-4646-4422-9bcb-366104fcb707",
+        "29f54b3c-e811-46b2-8cb9-670ade6f5b08",
+        "898022a2-d4b0-40bc-bb54-7fca023d9b83"
+      ],
+      "settings": {}
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "subheading": "you may also like",
+        "title": "",
+        "recommendations_count": 4,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "16545061113a9e8333": {
+      "type": "faq",
+      "blocks": {
+        "165450611101e471f9-4": {
+          "type": "question",
+          "settings": {
+            "title": "How do I know whether your watches are authentic?",
+            "answer": "<p>As the largest buyer, seller, and trader of high-end luxury watches in Indonesia, you can be confident that any watch you see on Omniluxe is guaranteed to be authentic. We have team experts to verify the authenticity of every timepiece.</p>"
+          }
+        },
+        "a91b97e9-fe57-469a-adbb-f609f487448a": {
+          "type": "question",
+          "settings": {
+            "title": "Does Omniluxe have shipping insurance for the watch I bought?",
+            "answer": "<p>We will protect your treasured timepiece with a fully insured benefit.</p>"
+          }
+        },
+        "5fdce758-e660-4a45-81f5-86ba336e81b5": {
+          "type": "question",
+          "settings": {
+            "title": "Can I order watches that are not listed on your website?",
+            "answer": "<p>Yes, you may contact us to enquire about the watch you’re looking for.</p>"
+          }
+        },
+        "da113489-cb22-4563-9198-128122fe4851": {
+          "type": "question",
+          "settings": {
+            "title": "Can I offer a lower price for a watch?",
+            "answer": "<p>Many of the watches on our website have the ability for you to make an offer. We strive to respond to your offer as quickly as possible during business<br/>hours (11.00 A.M – 7.30 P.M)</p>"
+          }
+        },
+        "937937f1-7e0e-4608-95cd-bb04a48c5074": {
+          "type": "question",
+          "settings": {
+            "title": "Why is the manufacturer retail price lower than your price?",
+            "answer": "<p>High demand watches that produced by the retailer have a higher value on the secondary market. Omniluxe works very hard to give you an easiest access to the most popular watches at a fair market price.</p>"
+          }
+        },
+        "a8d724c5-c5fb-46b9-a8ab-1c3c69b396f0": {
+          "type": "question",
+          "settings": {
+            "title": "Does Omniluxe has an Offline Store?",
+            "answer": "<p>We’re located in Jakarta. You can visit us at Mall Artha Gading GF/B07/09, Jl. Artha Gading Sel. No.1, Jakarta, Daerah Khusus Ibukota Jakarta 14240</p>"
+          }
+        },
+        "b48f986d-79ad-4acd-908a-d6ed7f5745ff": {
+          "type": "question",
+          "settings": {
+            "title": "Can I see a watch in person before purchasing it?",
+            "answer": "<p>Yes, we will welcome you warmly at our store. In spite of that, if you are keen to buy the Consignment Item, you have to make a Down Payment first before we arrange delivery of watch from the owner.</p>"
+          }
+        },
+        "ae6c5ea0-1645-429e-8170-0f6fa484e5a9": {
+          "type": "question",
+          "settings": {
+            "title": "What types of payments do you accept?",
+            "answer": "<p>Our preferred method of payment are by Cash or Transfer. We also accept Credit Cards,and  Debit Cards.</p>"
+          }
+        },
+        "e1fc9db6-e1d4-4bca-98dd-bcffa821e04e": {
+          "type": "question",
+          "settings": {
+            "title": "What happens if my watch has an issue? What is your Warranty?",
+            "answer": "<p>Every watch we sell comes with store warranty*. We will provide coverage for the remaining time within the 30 days period (*Terms & Conditions Apply).</p>"
+          }
+        },
+        "165450611101e471f9-0": {
+          "type": "category",
+          "settings": {
+            "title": "Shipping"
+          }
+        },
+        "165450611101e471f9-1": {
+          "type": "question",
+          "settings": {
+            "title": "Do you ship outside Java Islands?",
+            "answer": "<p>Yes, we ship domestically. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+          }
+        },
+        "165450611101e471f9-2": {
+          "type": "question",
+          "settings": {
+            "title": "How long will it take to get my order?",
+            "answer": "<p>It depends on where you are. Orders processed in JABODETABEK  will take maximum 1 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "165450611101e471f9-4",
+        "a91b97e9-fe57-469a-adbb-f609f487448a",
+        "5fdce758-e660-4a45-81f5-86ba336e81b5",
+        "da113489-cb22-4563-9198-128122fe4851",
+        "937937f1-7e0e-4608-95cd-bb04a48c5074",
+        "a8d724c5-c5fb-46b9-a8ab-1c3c69b396f0",
+        "b48f986d-79ad-4acd-908a-d6ed7f5745ff",
+        "ae6c5ea0-1645-429e-8170-0f6fa484e5a9",
+        "e1fc9db6-e1d4-4bca-98dd-bcffa821e04e",
+        "165450611101e471f9-0",
+        "165450611101e471f9-1",
+        "165450611101e471f9-2"
+      ],
+      "settings": {
+        "show_navigation": false,
+        "title": "FAQ",
+        "content": "",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "custom_liquid_437WW6": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "liquid": "<script>\n  document.addEventListener('DOMContentLoaded', function () {\n    var isIOS = /iPhone|iPad|iPod/i.test(navigator.userAgent);\n    if (!isIOS) return; // selain iOS, biarkan iframe jalan normal\n\n    var iframes = document.querySelectorAll(\n      '.embed-container iframe[src*=\"youtube.com\"], .embed-container iframe[src*=\"youtu.be\"]'\n    );\n\n    iframes.forEach(function (iframe) {\n      var src = iframe.getAttribute('src') || '';\n      if (!src) return;\n\n      // Ambil ID video dari /embed/VIDEO_ID\n      var match = src.match(/\\/embed\\/([^?&]+)/);\n      var videoId = match ? match[1] : null;\n\n      if (!videoId) return;\n\n      var watchUrl = 'https://www.youtube.com/watch?v=' + videoId;\n      var thumbUrl = 'https://img.youtube.com/vi/' + videoId + '/hqdefault.jpg';\n\n      var container = iframe.parentElement;\n      if (!container) return;\n\n      // Isi ulang container: thumbnail + play icon + link\n      container.innerHTML =\n        '<a href=\"' + watchUrl + '\" ' +\n          'target=\"_self\" rel=\"noopener\" ' +\n          'style=\"position:absolute;top:0;left:0;width:100%;height:100%;display:block;overflow:hidden;\">' +\n          '<img src=\"' + thumbUrl + '\" ' +\n            'alt=\"Video\" loading=\"lazy\" ' +\n            'style=\"width:100%;height:100%;object-fit:cover;display:block;\" />' +\n          '<span ' +\n            'style=\"position:absolute;top:50%;left:50%;transform:translate(-50%, -50%);' +\n                   'font-size:46px;color:#fff;text-shadow:0 0 12px rgba(0,0,0,0.7);\">' +\n            '▶' +\n          '</span>' +\n        '</a>';\n    });\n  });\n</script>",
+        "background_type": "full_width",
+        "add_vertical_spacing": false,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "product-content",
+    "product-recommendations",
+    "16545061113a9e8333",
+    "custom_liquid_437WW6"
+  ]
+}

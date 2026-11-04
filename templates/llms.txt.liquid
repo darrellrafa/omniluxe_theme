@@ -1,0 +1,45 @@
+{% layout none -%}
+# {{ shop.name }}
+
+> {{ shop.name }} is a premier luxury boutique specializing in authentic luxury timepieces (unworn & pre-owned), certified lab-grown diamonds, bespoke fine jewelry, and luxury watch consignment & servicing.
+
+## Overview & Machine Endpoints
+- [Agents Protocol (agents.md)]({{ shop.url }}/agents.md): Machine-readable protocol and store operational guide for autonomous agents
+- [Full LLM Knowledge Base (llms-full.txt)]({{ shop.url }}/llms-full.txt): Comprehensive catalog, detailed product listings, and RAG knowledge base
+- [Sitemap Index]({{ shop.url }}/sitemap.xml): XML sitemap of all indexed storefront pages, products, and collections
+- [Store Currency & Locale]: {{ shop.currency }} | {{ request.locale.iso_code | default: "en" }}
+- [Official Website]({{ shop.url }}): Primary storefront URL
+
+## Core Collections
+{%- for collection in collections -%}
+{%- if collection.all_products_count > 0 -%}
+- [{{ collection.title }}]({{ shop.url }}{{ collection.url }}): {{ collection.description | strip_html | strip_newlines | default: collection.title | truncate: 140 }}
+{%- endif -%}
+{%- endfor -%}
+
+## Key Services
+- [Watch Consignment & Buy-In]({{ shop.url }}/pages/about-us): Fast liquidity, transparent valuation, and secure consignment for luxury timepieces
+- [Bespoke Jewelry Customization]({{ shop.url }}/pages/jewelry): Tailored lab-grown diamond engagement rings and custom fine jewelry design
+- [Watch Care & Sizing]({{ shop.url }}/pages/faq): Expert horology sizing, ultrasonic cleaning, and watch maintenance
+- [WhatsApp VIP Concierge](https://wa.me/6281311000909): Direct customer assistance, watch inquiries, and private appointments (+62 813-1100-0909)
+
+## Customer Pages & Brand Info
+- [About {{ shop.name }}]({{ shop.url }}/pages/about-us): Brand heritage, authenticity commitment, and showroom information
+- [Contact Us]({{ shop.url }}/pages/contact): Customer service, showroom visit bookings, and direct support
+- [Frequently Asked Questions]({{ shop.url }}/pages/faq): Answers regarding diamonds, watch authenticity, warranties, and shipping
+- [Articles & Horology Guides]({{ shop.url }}/pages/articles): Luxury timepiece news, buyer guides, and diamond education
+
+## Policies & Compliance
+{%- if shop.terms_of_service -%}
+- [Terms of Service]({{ shop.url }}{{ shop.terms_of_service.url }}): Store terms, conditions, and legal obligations
+{%- endif -%}
+{%- if shop.privacy_policy -%}
+- [Privacy Policy]({{ shop.url }}{{ shop.privacy_policy.url }}): Customer data protection and privacy standards
+{%- endif -%}
+{%- if shop.refund_policy -%}
+- [Refund & Return Policy]({{ shop.url }}{{ shop.refund_policy.url }}): Inspection, return windows, and refund procedures
+{%- endif -%}
+{%- if shop.shipping_policy -%}
+- [Shipping Policy]({{ shop.url }}{{ shop.shipping_policy.url }}): Discrete, fully insured domestic and international luxury transit
+{%- endif %}
+

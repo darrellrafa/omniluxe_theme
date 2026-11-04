@@ -1,0 +1,664 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "8c0a51c0-cc55-4308-aaa9-89581ebcc542": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/Dekstop-Omni_Mandiri.png",
+            "mobile_image": "shopify://shop_images/Mobile-Omni_Mandiri.png",
+            "text_position": "middle_right",
+            "subheading": "",
+            "title": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#2e4b5d",
+            "overlay_opacity": 0
+          }
+        },
+        "7c68a484-a556-40e1-91d6-d455a1c12ea7": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Slideshow_1_cce55fa3-4859-48e8-8965-6cff881fb061.jpg",
+            "mobile_image": "shopify://shop_images/Slideshow_Mobile_1_88105135-5938-48c2-8ccd-1f3d8a4e293f.jpg",
+            "text_position": "middle_left",
+            "subheading": "new arrival",
+            "title": "Explore the latest collection",
+            "button_1_text": "Check it out",
+            "button_1_link": "shopify://collections/jam-tangan",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#2e4b5d",
+            "overlay_opacity": 0
+          }
+        },
+        "slide-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Slideshow_2_3f72718b-b8dd-4c41-80a6-c4c5ee9176fd.jpg",
+            "mobile_image": "shopify://shop_images/Slideshow_Mobile_2_395a8166-f364-45aa-90b5-77df26e37d5d.jpg",
+            "text_position": "middle_right",
+            "subheading": "consignment",
+            "title": "Sell Fast and Get a Paid Fast!",
+            "button_1_text": "sell now",
+            "button_1_link": "shopify://pages/consignment",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#2e4b5d",
+            "overlay_opacity": 20
+          }
+        },
+        "3cbfde0d-af7c-4352-ad6c-41b762823e7b": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/Slideshow_Campaign_dcc0e51b-1f52-47b9-820a-de412fc48ea5.jpg",
+            "mobile_image": "shopify://shop_images/Slideshow_Mobile_Campaign_926d2f0d-1d36-4787-b1c5-f832a8db1f52.jpg",
+            "text_position": "middle_left",
+            "subheading": "EXPLORE",
+            "title": "The Beauty of Lab-Grown Diamonds",
+            "button_1_text": "Shop Now",
+            "button_1_link": "https://linktr.ee/vue.id.official",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "slide-2": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/Slideshow_3_54af3bec-9d57-47c3-bbbd-8e9fd5b03e4c.jpg",
+            "mobile_image": "shopify://shop_images/Slideshow_Mobile_3_1dea6677-7b9c-4a2b-8847-df36a232e49e.jpg",
+            "text_position": "middle_left",
+            "subheading": "RESIZE & SERVICE",
+            "title": "TAKE CARE YOUR WATCH",
+            "button_1_text": "CONTACT US",
+            "button_1_link": "http://wa.me//62817711909",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#2e4b5d",
+            "overlay_opacity": 20
+          }
+        }
+      },
+      "block_order": [
+        "8c0a51c0-cc55-4308-aaa9-89581ebcc542",
+        "7c68a484-a556-40e1-91d6-d455a1c12ea7",
+        "slide-1",
+        "3cbfde0d-af7c-4352-ad6c-41b762823e7b",
+        "slide-2"
+      ],
+      "settings": {
+        "section_height": "fit",
+        "transition_type": "sweep",
+        "autoplay": true,
+        "cycle_speed": 5,
+        "background": "#ffffff"
+      }
+    },
+    "slideshow_KwgaWU": {
+      "type": "slideshow",
+      "blocks": {
+        "image_FPGxb7": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/OMNI_Ramadan_Desktop.png",
+            "mobile_image": "shopify://shop_images/OMNI_Ramadan_Mobile.png",
+            "text_position": "middle_center",
+            "subheading": "",
+            "title": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_bpM9id": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/Dekstop-Omni_Mandiri.png",
+            "mobile_image": "shopify://shop_images/Mobile-Omni_Mandiri.png",
+            "text_position": "middle_center",
+            "subheading": "",
+            "title": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_FPGxb7",
+        "image_bpM9id"
+      ],
+      "disabled": true,
+      "name": "Slideshow",
+      "settings": {
+        "section_height": "auto",
+        "transition_type": "sweep",
+        "autoplay": true,
+        "cycle_speed": 5,
+        "background": "rgba(0,0,0,0)"
+      }
+    },
+    "collection-list": {
+      "type": "collection-list",
+      "blocks": {
+        "9b1d0ac5-34f4-4c48-bff5-8915ebde0db5": {
+          "type": "collection",
+          "settings": {
+            "collection": "men",
+            "image": "shopify://shop_images/Collection_List_-_Men_Watches_98b8ff72-74fa-4f79-922d-c290211606fc.jpg",
+            "subheading": "",
+            "title": "MEN WATCHES",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 20
+          }
+        },
+        "916d41fc-22a7-4b23-9c3f-43fb54c61e8c": {
+          "type": "collection",
+          "settings": {
+            "collection": "ladies",
+            "image": "shopify://shop_images/Collection_List_-_Women_Watches_dd2728f1-051e-4f49-8474-98872f675ce8.jpg",
+            "subheading": "",
+            "title": "LADIES WATCH",
+            "link_text": "",
+            "link_url": "",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 20
+          }
+        },
+        "collection-1": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "unworn",
+            "image": "shopify://shop_images/Collection_List_-_Unworn_9176790e-46fe-4d94-b90e-e2ce0196bdb5.jpg",
+            "subheading": "",
+            "title": "UNWORN",
+            "link_text": "",
+            "link_url": "shopify://collections/unworn",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 20
+          }
+        },
+        "collection-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify://shop_images/Collection_List_-_Pre_Owned_4ceffbd2-b933-4a9f-b1db-d286bfe186e8.jpg",
+            "subheading": "",
+            "title": "PRE OWNED",
+            "link_text": "",
+            "link_url": "shopify://collections/pre-owned",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 20
+          }
+        },
+        "collection-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify://shop_images/Collection_List_-_Accessories_9c2fcafb-07ac-46b7-99f3-5af8f15df006.jpg",
+            "subheading": "",
+            "title": "ACCESSORIES",
+            "link_text": "",
+            "link_url": "shopify://collections/accessories",
+            "text_color": "rgba(0,0,0,0)",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "9b1d0ac5-34f4-4c48-bff5-8915ebde0db5",
+        "916d41fc-22a7-4b23-9c3f-43fb54c61e8c",
+        "collection-1",
+        "collection-2",
+        "collection-3"
+      ],
+      "settings": {
+        "reveal_on_scroll": false,
+        "layout": "carousel",
+        "subheading": "",
+        "title": "",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "#2e4b5d"
+      }
+    },
+    "featured-collections": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "jam-tangan",
+            "label": "Ready Stock",
+            "button_text": "View More",
+            "button_url": "shopify://collections/jam-tangan"
+          }
+        },
+        "8bd0bc5f-137a-4cef-805f-620e05dc0364": {
+          "type": "collection",
+          "settings": {
+            "collection": "consignment-collection",
+            "label": "Consignment",
+            "button_text": "View More",
+            "button_url": "shopify://collections/consignment-collection"
+          }
+        }
+      },
+      "block_order": [
+        "collection-1",
+        "8bd0bc5f-137a-4cef-805f-620e05dc0364"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "discover our collection",
+        "content": "",
+        "products_count": 16,
+        "products_per_row": 4,
+        "stack_products": false,
+        "show_cta": false,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "shop-the-look": {
+      "type": "shop-the-look",
+      "blocks": {
+        "look_jxgNCk": {
+          "type": "look",
+          "settings": {
+            "image": "shopify://shop_images/Shop_The_Looks_5_ccd4407b-f1a5-4d5d-aaf3-30b9648ecabe.jpg",
+            "mobile_image": "shopify://shop_images/Shop_The_Looks_Mobile_5_b006e007-919c-4c9b-bc76-a15f0e02b418.jpg",
+            "dot_type": "normal",
+            "product_1": "audemars-piguet-roo-chronograph-37mm-black-dial-diamond-bezel-2014",
+            "product_1_horizontal_position": 44,
+            "product_1_vertical_position": 83,
+            "product_1_horizontal_position_mobile": 36,
+            "product_1_vertical_position_mobile": 65,
+            "product_2": "",
+            "product_2_horizontal_position": 50,
+            "product_2_vertical_position": 50,
+            "product_2_horizontal_position_mobile": 50,
+            "product_2_vertical_position_mobile": 50,
+            "product_3": "",
+            "product_3_horizontal_position": 70,
+            "product_3_vertical_position": 70,
+            "product_3_horizontal_position_mobile": 70,
+            "product_3_vertical_position_mobile": 70
+          }
+        },
+        "look_CLfPjb": {
+          "type": "look",
+          "settings": {
+            "image": "shopify://shop_images/Shop_The_Looks_4_6077565f-61d9-484a-9afc-3c6d95b03e3e.jpg",
+            "mobile_image": "shopify://shop_images/Shop_The_Looks_Mobile_4_22fba399-6609-41c5-b566-0f0f2b34f9c8.jpg",
+            "dot_type": "normal",
+            "product_1": "vacheron-constantin-overseas-35mm-pink-dial-diamond-bezel-2024",
+            "product_1_horizontal_position": 26,
+            "product_1_vertical_position": 36,
+            "product_1_horizontal_position_mobile": 25,
+            "product_1_vertical_position_mobile": 28,
+            "product_2": "",
+            "product_2_horizontal_position": 50,
+            "product_2_vertical_position": 50,
+            "product_2_horizontal_position_mobile": 50,
+            "product_2_vertical_position_mobile": 50,
+            "product_3": "",
+            "product_3_horizontal_position": 70,
+            "product_3_vertical_position": 70,
+            "product_3_horizontal_position_mobile": 70,
+            "product_3_vertical_position_mobile": 70
+          }
+        },
+        "0cc2bbd2-e5c8-42ec-a52c-7345b751d046": {
+          "type": "look",
+          "settings": {
+            "image": "shopify://shop_images/Shop_The_Looks_2_0cf02a00-a3c7-46bb-9b35-94fbd8ed7f2c.jpg",
+            "mobile_image": "shopify://shop_images/Shop_The_Looks_Mobile_2_4a6a6e72-66c8-4c28-b207-2e418bed5069.jpg",
+            "dot_type": "normal",
+            "product_1": "audemars-piguet-ro-lady-33mm-77321st-white-dial-diamond-bezel-2010",
+            "product_1_horizontal_position": 48,
+            "product_1_vertical_position": 76,
+            "product_1_horizontal_position_mobile": 48,
+            "product_1_vertical_position_mobile": 68,
+            "product_2": "",
+            "product_2_horizontal_position": 53,
+            "product_2_vertical_position": 75,
+            "product_2_horizontal_position_mobile": 67,
+            "product_2_vertical_position_mobile": 81,
+            "product_3": "",
+            "product_3_horizontal_position": 50,
+            "product_3_vertical_position": 49,
+            "product_3_horizontal_position_mobile": 43,
+            "product_3_vertical_position_mobile": 63
+          }
+        },
+        "f61d2f7f-5fc1-4383-8b45-09f0eeb1d947": {
+          "type": "look",
+          "settings": {
+            "image": "shopify://shop_images/Shop_The_Looks_3_7042a4ca-8d68-4b2c-bbef-758d8c90e770.jpg",
+            "mobile_image": "shopify://shop_images/Shop_The_Looks_Mobile_3_bfa1c78f-734c-4b6b-b03f-38ccc05fe8aa.jpg",
+            "dot_type": "normal",
+            "product_1": "audemars-piguet-ro-26mm-twotone-rosegold-tantalum-grey-dial-watch-only",
+            "product_1_horizontal_position": 26,
+            "product_1_vertical_position": 69,
+            "product_1_horizontal_position_mobile": 37,
+            "product_1_vertical_position_mobile": 63,
+            "product_2": "",
+            "product_2_horizontal_position": 49,
+            "product_2_vertical_position": 60,
+            "product_2_horizontal_position_mobile": 46,
+            "product_2_vertical_position_mobile": 48,
+            "product_3": "",
+            "product_3_horizontal_position": 70,
+            "product_3_vertical_position": 70,
+            "product_3_horizontal_position_mobile": 70,
+            "product_3_vertical_position_mobile": 70
+          }
+        },
+        "d78953a8-04db-4aae-aac2-a5b141af7059": {
+          "type": "look",
+          "settings": {
+            "image": "shopify://shop_images/Shop_The_Looks_1_ede0e71f-4400-4b55-bb1e-de2662a864a9.jpg",
+            "mobile_image": "shopify://shop_images/Shop_The_Looks_Mobile_1_60c628a2-c313-42c4-ae40-0d416ed1df88.jpg",
+            "dot_type": "normal",
+            "product_1": "rolex-daytona-white-panda-dial-ceramic-bezel-2017",
+            "product_1_horizontal_position": 54,
+            "product_1_vertical_position": 70,
+            "product_1_horizontal_position_mobile": 52,
+            "product_1_vertical_position_mobile": 72,
+            "product_2": "",
+            "product_2_horizontal_position": 56,
+            "product_2_vertical_position": 77,
+            "product_2_horizontal_position_mobile": 60,
+            "product_2_vertical_position_mobile": 84,
+            "product_3": "",
+            "product_3_horizontal_position": 50,
+            "product_3_vertical_position": 61,
+            "product_3_horizontal_position_mobile": 46,
+            "product_3_vertical_position_mobile": 62
+          }
+        }
+      },
+      "block_order": [
+        "look_jxgNCk",
+        "look_CLfPjb",
+        "0cc2bbd2-e5c8-42ec-a52c-7345b751d046",
+        "f61d2f7f-5fc1-4383-8b45-09f0eeb1d947",
+        "d78953a8-04db-4aae-aac2-a5b141af7059"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "label": "SHOP THE LOOKS"
+      }
+    },
+    "image-with-text": {
+      "type": "image-with-text",
+      "blocks": {
+        "item-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/SELL_WITH_US.jpg",
+            "tab_label": "WHAT",
+            "subheading": "consignment",
+            "title": "GET THE BEST DEAL",
+            "content": "<p>We provide you with high-quality product photography, marketing copywriting, and authenticity guaranteed</p>",
+            "button_text": "Contact Us",
+            "button_link": "http://wa.me//6281311000909"
+          }
+        },
+        "item-2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/SELL_WITH_US_-_2.jpg",
+            "tab_label": "HOW",
+            "subheading": "consignment",
+            "title": "SELL WITH US",
+            "content": "<p>You only need to pay the admin fee, only 2% comission, then you can decide the price as you want!</p>",
+            "button_text": "contact us",
+            "button_link": "http://wa.me//6281311000909"
+          }
+        }
+      },
+      "block_order": [
+        "item-1",
+        "item-2"
+      ],
+      "settings": {
+        "reveal_on_scroll": false,
+        "background_type": "full_width",
+        "background_overlap": "image",
+        "image_position": "left",
+        "text_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "image-with-text-block": {
+      "type": "image-with-text-block",
+      "settings": {
+        "reveal_on_scroll": false,
+        "image": "shopify://shop_images/Announcement_Bar.jpg",
+        "mobile_image": "shopify://shop_images/Mobile.jpg",
+        "subheading": "About Us",
+        "title": "omniluxe",
+        "content": "<p>At the centre of what we do, and how we do things is a focus on delivering experiences, services and products based around our business pillars of Quality, Style and Elegance.</p>",
+        "button_text": "Read MOre",
+        "button_link": "shopify://pages/about-us",
+        "background_type": "full_width",
+        "text_position": "left",
+        "text_alignment": "left",
+        "text_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "blog-posts": {
+      "type": "blog-posts",
+      "settings": {
+        "blog": "news",
+        "subheading": "stay up to date",
+        "title": "latest news",
+        "articles_count": 3,
+        "stack_mobile": false,
+        "show_category": true,
+        "show_excerpt": true,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "96882164-ce01-4a80-a4d8-29eabd6a2b53": {
+      "type": "custom-html",
+      "settings": {
+        "subheading": "GOOGLE REVIEW",
+        "title": "WHAT OUR CUSTOMER SAY",
+        "html": "<script src=\"https://apps.elfsight.com/p/platform.js\" defer></script>\n<div class=\"elfsight-app-4cd9c0d1-088c-4701-abab-9ff1accd61ca\"></div>",
+        "background_type": "full_width",
+        "add_vertical_spacing": false,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "1659068058b8618813": {
+      "type": "apps",
+      "blocks": {
+        "5ee7fb5f-b5e5-49a4-915c-86c005c66155": {
+          "type": "shopify://apps/instafeed/blocks/app-block/c447db20-095d-4a10-9725-b5977662c9d5",
+          "settings": {
+            "title": "",
+            "title_color": "",
+            "title_size_v2": 0,
+            "alignment": "center",
+            "instafeed_margin_top": 0,
+            "instafeed_margin_bottom": 0,
+            "instafeed_margin_sides": 0,
+            "show_instagram_link": false,
+            "link_alignment": "left",
+            "link_color": "#000000",
+            "background_color": "",
+            "feed_id": "",
+            "html_area": ""
+          }
+        }
+      },
+      "block_order": [
+        "5ee7fb5f-b5e5-49a4-915c-86c005c66155"
+      ],
+      "settings": {
+        "include_horizontal_margins": true,
+        "include_vertical_margins": true
+      }
+    },
+    "text-with-icons": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item-1": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-fast-delivery",
+            "custom_icon_width": 50,
+            "title": "Fast shipping",
+            "content": "<p>Watch-selling process with fully shipping insurance</p>"
+          }
+        },
+        "item-2": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-phone",
+            "custom_icon_width": 50,
+            "title": "Market Expertise",
+            "content": "<p>We valued correctly and sold at a recommended 'fair' price to you</p>"
+          }
+        },
+        "item-3": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-lock",
+            "custom_icon_width": 50,
+            "title": "Secure payment",
+            "content": "<p>Your payment information is processed securely.</p>"
+          }
+        },
+        "item-4": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-customer-support",
+            "custom_icon_width": 50,
+            "title": "Value-Based Services",
+            "content": "<p>We serve you with high-quality product</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item-1",
+        "item-2",
+        "item-3",
+        "item-4"
+      ],
+      "settings": {
+        "background": "#2e4b5d",
+        "text_color": "#ffffff"
+      }
+    },
+    "newsletter": {
+      "type": "newsletter",
+      "settings": {
+        "reveal_on_scroll": false,
+        "image": "shopify://shop_images/Newslater.png",
+        "subheading": "Subscribe to our newsletter",
+        "content": "<p>Get our promotions, new products and sales, sent directly to your inbox.</p>",
+        "text_position": "left",
+        "text_alignment": "center",
+        "text_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "3e25b59c-e92b-4e66-b31b-9b4bb6577b47": {
+      "type": "custom-html",
+      "disabled": true,
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "html": "<script src=\"https://static.elfsight.com/platform/platform.js\" data-use-service-core=\"\" defer></script>\n<div class=\"elfsight-app-48f87c00-596c-4426-9fb9-7bd889fc8a66\" data-elfsight-app-lazy=\"\"></div>",
+        "background_type": "boxed",
+        "add_vertical_spacing": false,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "slideshow_KwgaWU",
+    "collection-list",
+    "featured-collections",
+    "shop-the-look",
+    "image-with-text",
+    "image-with-text-block",
+    "blog-posts",
+    "96882164-ce01-4a80-a4d8-29eabd6a2b53",
+    "1659068058b8618813",
+    "text-with-icons",
+    "newsletter",
+    "3e25b59c-e92b-4e66-b31b-9b4bb6577b47"
+  ]
+}
